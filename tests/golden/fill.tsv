@@ -1,0 +1,13 @@
+# template	title	date	time	filled
+# {{title}}\n\n{{date}} {{time}}\n	Daily	2026-10-18	09:30	# Daily\n\n2026-10-18 09:30\n
+{{title}} {{title}} {{date}}{{date}}	Twice	2026-10-18	09:30	Twice Twice 2026-10-182026-10-18
+{{other}} {{ title }} {{TITLE}} {title}	Untouched	2026-10-18	09:30	{{other}} {{ title }} {{TITLE}} {title}
+{{{title}}}	Nested	2026-10-18	09:30	{Nested}
+{{title}}	Title with {{date}} and {{time}}	2026-10-18	09:30	Title with 2026-10-18 and 09:30
+{{date}}	x	{{time}}	09:30	09:30
+	Empty template	2026-10-18	09:30	
++++\r\ntitle = "{{title}}"\r\n+++\r\n\r\n# {{title}}\r\n	Say "hi"	2026-10-18	09:30	+++\r\ntitle = "Say "hi""\r\n+++\r\n\r\n# Say "hi"\r\n
+- {{time}} log				-  log
+{{title}}	emoji 🚀 日本語	2026-10-18	23:59	emoji 🚀 日本語
+{{title	x	d	t	{{title
+{{title}}}}	x	d	t	x}}

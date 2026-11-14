@@ -1,0 +1,5 @@
+# Hits that scripts/scrub-check accepts. One per line: <path glob>:<extended regular expression>
+# Give the reason in a comment above each entry.
+
+# The public security contact.
+*.md:security@lumbridgecorp\.com

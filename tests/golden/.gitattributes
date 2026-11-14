@@ -1,0 +1,4 @@
+# The fixtures are bytes, not text: keep CRLF, BOMs and missing final
+# newlines exactly as they are on every checkout.
+* -text
+bless/*.sh text eol=lf

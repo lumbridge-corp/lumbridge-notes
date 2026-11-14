@@ -1,0 +1,2157 @@
+# leaf	context	kind	raw	rendered
+Blank	-	Text	Body	Body
+Blank	-	Code	InlineCode	InlineCode
+Blank	-	Marker	Marker	Marker
+Blank	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Blank	-	Bullet	Bullet	Bullet
+Blank	-	Number	Number	Number
+Blank	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Blank	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Blank	-	Indent	Indent decoration	Indent decoration
+Blank	-	TableSep	TableBorder	TableBorder
+Blank	-	TablePad	TablePad decoration	TablePad decoration
+Blank	-	Html	Html	Html
+Blank	-	ImageMarker	Image decoration	Image decoration
+Blank	-	FrontMatter	FrontMatter	FrontMatter
+Blank	quote	Text	Body quote	Body quote
+Blank	quote	Code	InlineCode quote	InlineCode quote
+Blank	quote	Marker	Marker quote	Marker quote
+Blank	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Blank	quote	Bullet	Bullet	Bullet
+Blank	quote	Number	Number	Number
+Blank	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Blank	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Blank	quote	Indent	Indent decoration	Indent decoration
+Blank	quote	TableSep	TableBorder	TableBorder
+Blank	quote	TablePad	TablePad decoration	TablePad decoration
+Blank	quote	Html	Html quote	Html quote
+Blank	quote	ImageMarker	Image decoration	Image decoration
+Blank	quote	FrontMatter	FrontMatter	FrontMatter
+Blank	task	Text	Body	Body
+Blank	task	Code	InlineCode	InlineCode
+Blank	task	Marker	Marker	Marker
+Blank	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Blank	task	Bullet	Bullet	Bullet
+Blank	task	Number	Number	Number
+Blank	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Blank	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Blank	task	Indent	Indent decoration	Indent decoration
+Blank	task	TableSep	TableBorder	TableBorder
+Blank	task	TablePad	TablePad decoration	TablePad decoration
+Blank	task	Html	Html	Html
+Blank	task	ImageMarker	Image decoration	Image decoration
+Blank	task	FrontMatter	FrontMatter	FrontMatter
+Blank	done	Text	Body	Body strike,dim
+Blank	done	Code	InlineCode	InlineCode strike,dim
+Blank	done	Marker	Marker	Marker
+Blank	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Blank	done	Bullet	Bullet	Bullet
+Blank	done	Number	Number	Number
+Blank	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Blank	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Blank	done	Indent	Indent decoration	Indent decoration
+Blank	done	TableSep	TableBorder	TableBorder
+Blank	done	TablePad	TablePad decoration	TablePad decoration
+Blank	done	Html	Html	Html
+Blank	done	ImageMarker	Image decoration	Image decoration
+Blank	done	FrontMatter	FrontMatter	FrontMatter
+Blank	strong+emph+link	Text	Body bold,italic,link	Body bold,italic,link
+Blank	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+Blank	strong+emph+link	Marker	Marker	Marker
+Blank	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Blank	strong+emph+link	Bullet	Bullet	Bullet
+Blank	strong+emph+link	Number	Number	Number
+Blank	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Blank	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Blank	strong+emph+link	Indent	Indent decoration	Indent decoration
+Blank	strong+emph+link	TableSep	TableBorder	TableBorder
+Blank	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Blank	strong+emph+link	Html	Html	Html
+Blank	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Blank	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Blank	strike	Text	Body strike,dim	Body strike,dim
+Blank	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+Blank	strike	Marker	Marker	Marker
+Blank	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Blank	strike	Bullet	Bullet	Bullet
+Blank	strike	Number	Number	Number
+Blank	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Blank	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Blank	strike	Indent	Indent decoration	Indent decoration
+Blank	strike	TableSep	TableBorder	TableBorder
+Blank	strike	TablePad	TablePad decoration	TablePad decoration
+Blank	strike	Html	Html	Html
+Blank	strike	ImageMarker	Image decoration	Image decoration
+Blank	strike	FrontMatter	FrontMatter	FrontMatter
+Blank	image	Text	Image	Image
+Blank	image	Code	Image	Image
+Blank	image	Marker	Marker	Marker
+Blank	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Blank	image	Bullet	Bullet	Bullet
+Blank	image	Number	Number	Number
+Blank	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Blank	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Blank	image	Indent	Indent decoration	Indent decoration
+Blank	image	TableSep	TableBorder	TableBorder
+Blank	image	TablePad	TablePad decoration	TablePad decoration
+Blank	image	Html	Html	Html
+Blank	image	ImageMarker	Image decoration	Image decoration
+Blank	image	FrontMatter	FrontMatter	FrontMatter
+Paragraph	-	Text	Body	Body
+Paragraph	-	Code	InlineCode	InlineCode
+Paragraph	-	Marker	Marker	Marker
+Paragraph	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Paragraph	-	Bullet	Bullet	Bullet
+Paragraph	-	Number	Number	Number
+Paragraph	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Paragraph	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Paragraph	-	Indent	Indent decoration	Indent decoration
+Paragraph	-	TableSep	TableBorder	TableBorder
+Paragraph	-	TablePad	TablePad decoration	TablePad decoration
+Paragraph	-	Html	Html	Html
+Paragraph	-	ImageMarker	Image decoration	Image decoration
+Paragraph	-	FrontMatter	FrontMatter	FrontMatter
+Paragraph	quote	Text	Body quote	Body quote
+Paragraph	quote	Code	InlineCode quote	InlineCode quote
+Paragraph	quote	Marker	Marker quote	Marker quote
+Paragraph	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Paragraph	quote	Bullet	Bullet	Bullet
+Paragraph	quote	Number	Number	Number
+Paragraph	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Paragraph	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Paragraph	quote	Indent	Indent decoration	Indent decoration
+Paragraph	quote	TableSep	TableBorder	TableBorder
+Paragraph	quote	TablePad	TablePad decoration	TablePad decoration
+Paragraph	quote	Html	Html quote	Html quote
+Paragraph	quote	ImageMarker	Image decoration	Image decoration
+Paragraph	quote	FrontMatter	FrontMatter	FrontMatter
+Paragraph	task	Text	Body	Body
+Paragraph	task	Code	InlineCode	InlineCode
+Paragraph	task	Marker	Marker	Marker
+Paragraph	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Paragraph	task	Bullet	Bullet	Bullet
+Paragraph	task	Number	Number	Number
+Paragraph	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Paragraph	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Paragraph	task	Indent	Indent decoration	Indent decoration
+Paragraph	task	TableSep	TableBorder	TableBorder
+Paragraph	task	TablePad	TablePad decoration	TablePad decoration
+Paragraph	task	Html	Html	Html
+Paragraph	task	ImageMarker	Image decoration	Image decoration
+Paragraph	task	FrontMatter	FrontMatter	FrontMatter
+Paragraph	done	Text	Body	Body strike,dim
+Paragraph	done	Code	InlineCode	InlineCode strike,dim
+Paragraph	done	Marker	Marker	Marker
+Paragraph	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Paragraph	done	Bullet	Bullet	Bullet
+Paragraph	done	Number	Number	Number
+Paragraph	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Paragraph	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Paragraph	done	Indent	Indent decoration	Indent decoration
+Paragraph	done	TableSep	TableBorder	TableBorder
+Paragraph	done	TablePad	TablePad decoration	TablePad decoration
+Paragraph	done	Html	Html	Html
+Paragraph	done	ImageMarker	Image decoration	Image decoration
+Paragraph	done	FrontMatter	FrontMatter	FrontMatter
+Paragraph	strong+emph+link	Text	Body bold,italic,link	Body bold,italic,link
+Paragraph	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+Paragraph	strong+emph+link	Marker	Marker	Marker
+Paragraph	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Paragraph	strong+emph+link	Bullet	Bullet	Bullet
+Paragraph	strong+emph+link	Number	Number	Number
+Paragraph	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Paragraph	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Paragraph	strong+emph+link	Indent	Indent decoration	Indent decoration
+Paragraph	strong+emph+link	TableSep	TableBorder	TableBorder
+Paragraph	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Paragraph	strong+emph+link	Html	Html	Html
+Paragraph	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Paragraph	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Paragraph	strike	Text	Body strike,dim	Body strike,dim
+Paragraph	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+Paragraph	strike	Marker	Marker	Marker
+Paragraph	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Paragraph	strike	Bullet	Bullet	Bullet
+Paragraph	strike	Number	Number	Number
+Paragraph	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Paragraph	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Paragraph	strike	Indent	Indent decoration	Indent decoration
+Paragraph	strike	TableSep	TableBorder	TableBorder
+Paragraph	strike	TablePad	TablePad decoration	TablePad decoration
+Paragraph	strike	Html	Html	Html
+Paragraph	strike	ImageMarker	Image decoration	Image decoration
+Paragraph	strike	FrontMatter	FrontMatter	FrontMatter
+Paragraph	image	Text	Image	Image
+Paragraph	image	Code	Image	Image
+Paragraph	image	Marker	Marker	Marker
+Paragraph	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Paragraph	image	Bullet	Bullet	Bullet
+Paragraph	image	Number	Number	Number
+Paragraph	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Paragraph	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Paragraph	image	Indent	Indent decoration	Indent decoration
+Paragraph	image	TableSep	TableBorder	TableBorder
+Paragraph	image	TablePad	TablePad decoration	TablePad decoration
+Paragraph	image	Html	Html	Html
+Paragraph	image	ImageMarker	Image decoration	Image decoration
+Paragraph	image	FrontMatter	FrontMatter	FrontMatter
+Heading(1)	-	Text	Heading(1)	Heading(1)
+Heading(1)	-	Code	InlineCode	InlineCode
+Heading(1)	-	Marker	Marker	Marker
+Heading(1)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(1)	-	Bullet	Bullet	Bullet
+Heading(1)	-	Number	Number	Number
+Heading(1)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(1)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(1)	-	Indent	Indent decoration	Indent decoration
+Heading(1)	-	TableSep	TableBorder	TableBorder
+Heading(1)	-	TablePad	TablePad decoration	TablePad decoration
+Heading(1)	-	Html	Html	Html
+Heading(1)	-	ImageMarker	Image decoration	Image decoration
+Heading(1)	-	FrontMatter	FrontMatter	FrontMatter
+Heading(1)	quote	Text	Heading(1)	Heading(1)
+Heading(1)	quote	Code	InlineCode	InlineCode
+Heading(1)	quote	Marker	Marker	Marker
+Heading(1)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(1)	quote	Bullet	Bullet	Bullet
+Heading(1)	quote	Number	Number	Number
+Heading(1)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(1)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(1)	quote	Indent	Indent decoration	Indent decoration
+Heading(1)	quote	TableSep	TableBorder	TableBorder
+Heading(1)	quote	TablePad	TablePad decoration	TablePad decoration
+Heading(1)	quote	Html	Html	Html
+Heading(1)	quote	ImageMarker	Image decoration	Image decoration
+Heading(1)	quote	FrontMatter	FrontMatter	FrontMatter
+Heading(1)	task	Text	Heading(1)	Heading(1)
+Heading(1)	task	Code	InlineCode	InlineCode
+Heading(1)	task	Marker	Marker	Marker
+Heading(1)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(1)	task	Bullet	Bullet	Bullet
+Heading(1)	task	Number	Number	Number
+Heading(1)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(1)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(1)	task	Indent	Indent decoration	Indent decoration
+Heading(1)	task	TableSep	TableBorder	TableBorder
+Heading(1)	task	TablePad	TablePad decoration	TablePad decoration
+Heading(1)	task	Html	Html	Html
+Heading(1)	task	ImageMarker	Image decoration	Image decoration
+Heading(1)	task	FrontMatter	FrontMatter	FrontMatter
+Heading(1)	done	Text	Heading(1)	Heading(1) strike,dim
+Heading(1)	done	Code	InlineCode	InlineCode strike,dim
+Heading(1)	done	Marker	Marker	Marker
+Heading(1)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(1)	done	Bullet	Bullet	Bullet
+Heading(1)	done	Number	Number	Number
+Heading(1)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(1)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(1)	done	Indent	Indent decoration	Indent decoration
+Heading(1)	done	TableSep	TableBorder	TableBorder
+Heading(1)	done	TablePad	TablePad decoration	TablePad decoration
+Heading(1)	done	Html	Html	Html
+Heading(1)	done	ImageMarker	Image decoration	Image decoration
+Heading(1)	done	FrontMatter	FrontMatter	FrontMatter
+Heading(1)	strong+emph+link	Text	Heading(1) bold,italic,link	Heading(1) bold,italic,link
+Heading(1)	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+Heading(1)	strong+emph+link	Marker	Marker	Marker
+Heading(1)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(1)	strong+emph+link	Bullet	Bullet	Bullet
+Heading(1)	strong+emph+link	Number	Number	Number
+Heading(1)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(1)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(1)	strong+emph+link	Indent	Indent decoration	Indent decoration
+Heading(1)	strong+emph+link	TableSep	TableBorder	TableBorder
+Heading(1)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Heading(1)	strong+emph+link	Html	Html	Html
+Heading(1)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Heading(1)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Heading(1)	strike	Text	Heading(1) strike,dim	Heading(1) strike,dim
+Heading(1)	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+Heading(1)	strike	Marker	Marker	Marker
+Heading(1)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(1)	strike	Bullet	Bullet	Bullet
+Heading(1)	strike	Number	Number	Number
+Heading(1)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(1)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(1)	strike	Indent	Indent decoration	Indent decoration
+Heading(1)	strike	TableSep	TableBorder	TableBorder
+Heading(1)	strike	TablePad	TablePad decoration	TablePad decoration
+Heading(1)	strike	Html	Html	Html
+Heading(1)	strike	ImageMarker	Image decoration	Image decoration
+Heading(1)	strike	FrontMatter	FrontMatter	FrontMatter
+Heading(1)	image	Text	Image	Image
+Heading(1)	image	Code	Image	Image
+Heading(1)	image	Marker	Marker	Marker
+Heading(1)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(1)	image	Bullet	Bullet	Bullet
+Heading(1)	image	Number	Number	Number
+Heading(1)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(1)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(1)	image	Indent	Indent decoration	Indent decoration
+Heading(1)	image	TableSep	TableBorder	TableBorder
+Heading(1)	image	TablePad	TablePad decoration	TablePad decoration
+Heading(1)	image	Html	Html	Html
+Heading(1)	image	ImageMarker	Image decoration	Image decoration
+Heading(1)	image	FrontMatter	FrontMatter	FrontMatter
+Heading(2)	-	Text	Heading(2)	Heading(2)
+Heading(2)	-	Code	InlineCode	InlineCode
+Heading(2)	-	Marker	Marker	Marker
+Heading(2)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(2)	-	Bullet	Bullet	Bullet
+Heading(2)	-	Number	Number	Number
+Heading(2)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(2)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(2)	-	Indent	Indent decoration	Indent decoration
+Heading(2)	-	TableSep	TableBorder	TableBorder
+Heading(2)	-	TablePad	TablePad decoration	TablePad decoration
+Heading(2)	-	Html	Html	Html
+Heading(2)	-	ImageMarker	Image decoration	Image decoration
+Heading(2)	-	FrontMatter	FrontMatter	FrontMatter
+Heading(2)	quote	Text	Heading(2)	Heading(2)
+Heading(2)	quote	Code	InlineCode	InlineCode
+Heading(2)	quote	Marker	Marker	Marker
+Heading(2)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(2)	quote	Bullet	Bullet	Bullet
+Heading(2)	quote	Number	Number	Number
+Heading(2)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(2)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(2)	quote	Indent	Indent decoration	Indent decoration
+Heading(2)	quote	TableSep	TableBorder	TableBorder
+Heading(2)	quote	TablePad	TablePad decoration	TablePad decoration
+Heading(2)	quote	Html	Html	Html
+Heading(2)	quote	ImageMarker	Image decoration	Image decoration
+Heading(2)	quote	FrontMatter	FrontMatter	FrontMatter
+Heading(2)	task	Text	Heading(2)	Heading(2)
+Heading(2)	task	Code	InlineCode	InlineCode
+Heading(2)	task	Marker	Marker	Marker
+Heading(2)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(2)	task	Bullet	Bullet	Bullet
+Heading(2)	task	Number	Number	Number
+Heading(2)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(2)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(2)	task	Indent	Indent decoration	Indent decoration
+Heading(2)	task	TableSep	TableBorder	TableBorder
+Heading(2)	task	TablePad	TablePad decoration	TablePad decoration
+Heading(2)	task	Html	Html	Html
+Heading(2)	task	ImageMarker	Image decoration	Image decoration
+Heading(2)	task	FrontMatter	FrontMatter	FrontMatter
+Heading(2)	done	Text	Heading(2)	Heading(2) strike,dim
+Heading(2)	done	Code	InlineCode	InlineCode strike,dim
+Heading(2)	done	Marker	Marker	Marker
+Heading(2)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(2)	done	Bullet	Bullet	Bullet
+Heading(2)	done	Number	Number	Number
+Heading(2)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(2)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(2)	done	Indent	Indent decoration	Indent decoration
+Heading(2)	done	TableSep	TableBorder	TableBorder
+Heading(2)	done	TablePad	TablePad decoration	TablePad decoration
+Heading(2)	done	Html	Html	Html
+Heading(2)	done	ImageMarker	Image decoration	Image decoration
+Heading(2)	done	FrontMatter	FrontMatter	FrontMatter
+Heading(2)	strong+emph+link	Text	Heading(2) bold,italic,link	Heading(2) bold,italic,link
+Heading(2)	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+Heading(2)	strong+emph+link	Marker	Marker	Marker
+Heading(2)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(2)	strong+emph+link	Bullet	Bullet	Bullet
+Heading(2)	strong+emph+link	Number	Number	Number
+Heading(2)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(2)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(2)	strong+emph+link	Indent	Indent decoration	Indent decoration
+Heading(2)	strong+emph+link	TableSep	TableBorder	TableBorder
+Heading(2)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Heading(2)	strong+emph+link	Html	Html	Html
+Heading(2)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Heading(2)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Heading(2)	strike	Text	Heading(2) strike,dim	Heading(2) strike,dim
+Heading(2)	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+Heading(2)	strike	Marker	Marker	Marker
+Heading(2)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(2)	strike	Bullet	Bullet	Bullet
+Heading(2)	strike	Number	Number	Number
+Heading(2)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(2)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(2)	strike	Indent	Indent decoration	Indent decoration
+Heading(2)	strike	TableSep	TableBorder	TableBorder
+Heading(2)	strike	TablePad	TablePad decoration	TablePad decoration
+Heading(2)	strike	Html	Html	Html
+Heading(2)	strike	ImageMarker	Image decoration	Image decoration
+Heading(2)	strike	FrontMatter	FrontMatter	FrontMatter
+Heading(2)	image	Text	Image	Image
+Heading(2)	image	Code	Image	Image
+Heading(2)	image	Marker	Marker	Marker
+Heading(2)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(2)	image	Bullet	Bullet	Bullet
+Heading(2)	image	Number	Number	Number
+Heading(2)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(2)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(2)	image	Indent	Indent decoration	Indent decoration
+Heading(2)	image	TableSep	TableBorder	TableBorder
+Heading(2)	image	TablePad	TablePad decoration	TablePad decoration
+Heading(2)	image	Html	Html	Html
+Heading(2)	image	ImageMarker	Image decoration	Image decoration
+Heading(2)	image	FrontMatter	FrontMatter	FrontMatter
+Heading(3)	-	Text	Heading(3)	Heading(3)
+Heading(3)	-	Code	InlineCode	InlineCode
+Heading(3)	-	Marker	Marker	Marker
+Heading(3)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(3)	-	Bullet	Bullet	Bullet
+Heading(3)	-	Number	Number	Number
+Heading(3)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(3)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(3)	-	Indent	Indent decoration	Indent decoration
+Heading(3)	-	TableSep	TableBorder	TableBorder
+Heading(3)	-	TablePad	TablePad decoration	TablePad decoration
+Heading(3)	-	Html	Html	Html
+Heading(3)	-	ImageMarker	Image decoration	Image decoration
+Heading(3)	-	FrontMatter	FrontMatter	FrontMatter
+Heading(3)	quote	Text	Heading(3)	Heading(3)
+Heading(3)	quote	Code	InlineCode	InlineCode
+Heading(3)	quote	Marker	Marker	Marker
+Heading(3)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(3)	quote	Bullet	Bullet	Bullet
+Heading(3)	quote	Number	Number	Number
+Heading(3)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(3)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(3)	quote	Indent	Indent decoration	Indent decoration
+Heading(3)	quote	TableSep	TableBorder	TableBorder
+Heading(3)	quote	TablePad	TablePad decoration	TablePad decoration
+Heading(3)	quote	Html	Html	Html
+Heading(3)	quote	ImageMarker	Image decoration	Image decoration
+Heading(3)	quote	FrontMatter	FrontMatter	FrontMatter
+Heading(3)	task	Text	Heading(3)	Heading(3)
+Heading(3)	task	Code	InlineCode	InlineCode
+Heading(3)	task	Marker	Marker	Marker
+Heading(3)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(3)	task	Bullet	Bullet	Bullet
+Heading(3)	task	Number	Number	Number
+Heading(3)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(3)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(3)	task	Indent	Indent decoration	Indent decoration
+Heading(3)	task	TableSep	TableBorder	TableBorder
+Heading(3)	task	TablePad	TablePad decoration	TablePad decoration
+Heading(3)	task	Html	Html	Html
+Heading(3)	task	ImageMarker	Image decoration	Image decoration
+Heading(3)	task	FrontMatter	FrontMatter	FrontMatter
+Heading(3)	done	Text	Heading(3)	Heading(3) strike,dim
+Heading(3)	done	Code	InlineCode	InlineCode strike,dim
+Heading(3)	done	Marker	Marker	Marker
+Heading(3)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(3)	done	Bullet	Bullet	Bullet
+Heading(3)	done	Number	Number	Number
+Heading(3)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(3)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(3)	done	Indent	Indent decoration	Indent decoration
+Heading(3)	done	TableSep	TableBorder	TableBorder
+Heading(3)	done	TablePad	TablePad decoration	TablePad decoration
+Heading(3)	done	Html	Html	Html
+Heading(3)	done	ImageMarker	Image decoration	Image decoration
+Heading(3)	done	FrontMatter	FrontMatter	FrontMatter
+Heading(3)	strong+emph+link	Text	Heading(3) bold,italic,link	Heading(3) bold,italic,link
+Heading(3)	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+Heading(3)	strong+emph+link	Marker	Marker	Marker
+Heading(3)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(3)	strong+emph+link	Bullet	Bullet	Bullet
+Heading(3)	strong+emph+link	Number	Number	Number
+Heading(3)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(3)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(3)	strong+emph+link	Indent	Indent decoration	Indent decoration
+Heading(3)	strong+emph+link	TableSep	TableBorder	TableBorder
+Heading(3)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Heading(3)	strong+emph+link	Html	Html	Html
+Heading(3)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Heading(3)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Heading(3)	strike	Text	Heading(3) strike,dim	Heading(3) strike,dim
+Heading(3)	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+Heading(3)	strike	Marker	Marker	Marker
+Heading(3)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(3)	strike	Bullet	Bullet	Bullet
+Heading(3)	strike	Number	Number	Number
+Heading(3)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(3)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(3)	strike	Indent	Indent decoration	Indent decoration
+Heading(3)	strike	TableSep	TableBorder	TableBorder
+Heading(3)	strike	TablePad	TablePad decoration	TablePad decoration
+Heading(3)	strike	Html	Html	Html
+Heading(3)	strike	ImageMarker	Image decoration	Image decoration
+Heading(3)	strike	FrontMatter	FrontMatter	FrontMatter
+Heading(3)	image	Text	Image	Image
+Heading(3)	image	Code	Image	Image
+Heading(3)	image	Marker	Marker	Marker
+Heading(3)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(3)	image	Bullet	Bullet	Bullet
+Heading(3)	image	Number	Number	Number
+Heading(3)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(3)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(3)	image	Indent	Indent decoration	Indent decoration
+Heading(3)	image	TableSep	TableBorder	TableBorder
+Heading(3)	image	TablePad	TablePad decoration	TablePad decoration
+Heading(3)	image	Html	Html	Html
+Heading(3)	image	ImageMarker	Image decoration	Image decoration
+Heading(3)	image	FrontMatter	FrontMatter	FrontMatter
+Heading(4)	-	Text	Heading(4)	Heading(4)
+Heading(4)	-	Code	InlineCode	InlineCode
+Heading(4)	-	Marker	Marker	Marker
+Heading(4)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(4)	-	Bullet	Bullet	Bullet
+Heading(4)	-	Number	Number	Number
+Heading(4)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(4)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(4)	-	Indent	Indent decoration	Indent decoration
+Heading(4)	-	TableSep	TableBorder	TableBorder
+Heading(4)	-	TablePad	TablePad decoration	TablePad decoration
+Heading(4)	-	Html	Html	Html
+Heading(4)	-	ImageMarker	Image decoration	Image decoration
+Heading(4)	-	FrontMatter	FrontMatter	FrontMatter
+Heading(4)	quote	Text	Heading(4)	Heading(4)
+Heading(4)	quote	Code	InlineCode	InlineCode
+Heading(4)	quote	Marker	Marker	Marker
+Heading(4)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(4)	quote	Bullet	Bullet	Bullet
+Heading(4)	quote	Number	Number	Number
+Heading(4)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(4)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(4)	quote	Indent	Indent decoration	Indent decoration
+Heading(4)	quote	TableSep	TableBorder	TableBorder
+Heading(4)	quote	TablePad	TablePad decoration	TablePad decoration
+Heading(4)	quote	Html	Html	Html
+Heading(4)	quote	ImageMarker	Image decoration	Image decoration
+Heading(4)	quote	FrontMatter	FrontMatter	FrontMatter
+Heading(4)	task	Text	Heading(4)	Heading(4)
+Heading(4)	task	Code	InlineCode	InlineCode
+Heading(4)	task	Marker	Marker	Marker
+Heading(4)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(4)	task	Bullet	Bullet	Bullet
+Heading(4)	task	Number	Number	Number
+Heading(4)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(4)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(4)	task	Indent	Indent decoration	Indent decoration
+Heading(4)	task	TableSep	TableBorder	TableBorder
+Heading(4)	task	TablePad	TablePad decoration	TablePad decoration
+Heading(4)	task	Html	Html	Html
+Heading(4)	task	ImageMarker	Image decoration	Image decoration
+Heading(4)	task	FrontMatter	FrontMatter	FrontMatter
+Heading(4)	done	Text	Heading(4)	Heading(4) strike,dim
+Heading(4)	done	Code	InlineCode	InlineCode strike,dim
+Heading(4)	done	Marker	Marker	Marker
+Heading(4)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(4)	done	Bullet	Bullet	Bullet
+Heading(4)	done	Number	Number	Number
+Heading(4)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(4)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(4)	done	Indent	Indent decoration	Indent decoration
+Heading(4)	done	TableSep	TableBorder	TableBorder
+Heading(4)	done	TablePad	TablePad decoration	TablePad decoration
+Heading(4)	done	Html	Html	Html
+Heading(4)	done	ImageMarker	Image decoration	Image decoration
+Heading(4)	done	FrontMatter	FrontMatter	FrontMatter
+Heading(4)	strong+emph+link	Text	Heading(4) bold,italic,link	Heading(4) bold,italic,link
+Heading(4)	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+Heading(4)	strong+emph+link	Marker	Marker	Marker
+Heading(4)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(4)	strong+emph+link	Bullet	Bullet	Bullet
+Heading(4)	strong+emph+link	Number	Number	Number
+Heading(4)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(4)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(4)	strong+emph+link	Indent	Indent decoration	Indent decoration
+Heading(4)	strong+emph+link	TableSep	TableBorder	TableBorder
+Heading(4)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Heading(4)	strong+emph+link	Html	Html	Html
+Heading(4)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Heading(4)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Heading(4)	strike	Text	Heading(4) strike,dim	Heading(4) strike,dim
+Heading(4)	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+Heading(4)	strike	Marker	Marker	Marker
+Heading(4)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(4)	strike	Bullet	Bullet	Bullet
+Heading(4)	strike	Number	Number	Number
+Heading(4)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(4)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(4)	strike	Indent	Indent decoration	Indent decoration
+Heading(4)	strike	TableSep	TableBorder	TableBorder
+Heading(4)	strike	TablePad	TablePad decoration	TablePad decoration
+Heading(4)	strike	Html	Html	Html
+Heading(4)	strike	ImageMarker	Image decoration	Image decoration
+Heading(4)	strike	FrontMatter	FrontMatter	FrontMatter
+Heading(4)	image	Text	Image	Image
+Heading(4)	image	Code	Image	Image
+Heading(4)	image	Marker	Marker	Marker
+Heading(4)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(4)	image	Bullet	Bullet	Bullet
+Heading(4)	image	Number	Number	Number
+Heading(4)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(4)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(4)	image	Indent	Indent decoration	Indent decoration
+Heading(4)	image	TableSep	TableBorder	TableBorder
+Heading(4)	image	TablePad	TablePad decoration	TablePad decoration
+Heading(4)	image	Html	Html	Html
+Heading(4)	image	ImageMarker	Image decoration	Image decoration
+Heading(4)	image	FrontMatter	FrontMatter	FrontMatter
+Heading(5)	-	Text	Heading(5)	Heading(5)
+Heading(5)	-	Code	InlineCode	InlineCode
+Heading(5)	-	Marker	Marker	Marker
+Heading(5)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(5)	-	Bullet	Bullet	Bullet
+Heading(5)	-	Number	Number	Number
+Heading(5)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(5)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(5)	-	Indent	Indent decoration	Indent decoration
+Heading(5)	-	TableSep	TableBorder	TableBorder
+Heading(5)	-	TablePad	TablePad decoration	TablePad decoration
+Heading(5)	-	Html	Html	Html
+Heading(5)	-	ImageMarker	Image decoration	Image decoration
+Heading(5)	-	FrontMatter	FrontMatter	FrontMatter
+Heading(5)	quote	Text	Heading(5)	Heading(5)
+Heading(5)	quote	Code	InlineCode	InlineCode
+Heading(5)	quote	Marker	Marker	Marker
+Heading(5)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(5)	quote	Bullet	Bullet	Bullet
+Heading(5)	quote	Number	Number	Number
+Heading(5)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(5)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(5)	quote	Indent	Indent decoration	Indent decoration
+Heading(5)	quote	TableSep	TableBorder	TableBorder
+Heading(5)	quote	TablePad	TablePad decoration	TablePad decoration
+Heading(5)	quote	Html	Html	Html
+Heading(5)	quote	ImageMarker	Image decoration	Image decoration
+Heading(5)	quote	FrontMatter	FrontMatter	FrontMatter
+Heading(5)	task	Text	Heading(5)	Heading(5)
+Heading(5)	task	Code	InlineCode	InlineCode
+Heading(5)	task	Marker	Marker	Marker
+Heading(5)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(5)	task	Bullet	Bullet	Bullet
+Heading(5)	task	Number	Number	Number
+Heading(5)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(5)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(5)	task	Indent	Indent decoration	Indent decoration
+Heading(5)	task	TableSep	TableBorder	TableBorder
+Heading(5)	task	TablePad	TablePad decoration	TablePad decoration
+Heading(5)	task	Html	Html	Html
+Heading(5)	task	ImageMarker	Image decoration	Image decoration
+Heading(5)	task	FrontMatter	FrontMatter	FrontMatter
+Heading(5)	done	Text	Heading(5)	Heading(5) strike,dim
+Heading(5)	done	Code	InlineCode	InlineCode strike,dim
+Heading(5)	done	Marker	Marker	Marker
+Heading(5)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(5)	done	Bullet	Bullet	Bullet
+Heading(5)	done	Number	Number	Number
+Heading(5)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(5)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(5)	done	Indent	Indent decoration	Indent decoration
+Heading(5)	done	TableSep	TableBorder	TableBorder
+Heading(5)	done	TablePad	TablePad decoration	TablePad decoration
+Heading(5)	done	Html	Html	Html
+Heading(5)	done	ImageMarker	Image decoration	Image decoration
+Heading(5)	done	FrontMatter	FrontMatter	FrontMatter
+Heading(5)	strong+emph+link	Text	Heading(5) bold,italic,link	Heading(5) bold,italic,link
+Heading(5)	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+Heading(5)	strong+emph+link	Marker	Marker	Marker
+Heading(5)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(5)	strong+emph+link	Bullet	Bullet	Bullet
+Heading(5)	strong+emph+link	Number	Number	Number
+Heading(5)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(5)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(5)	strong+emph+link	Indent	Indent decoration	Indent decoration
+Heading(5)	strong+emph+link	TableSep	TableBorder	TableBorder
+Heading(5)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Heading(5)	strong+emph+link	Html	Html	Html
+Heading(5)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Heading(5)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Heading(5)	strike	Text	Heading(5) strike,dim	Heading(5) strike,dim
+Heading(5)	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+Heading(5)	strike	Marker	Marker	Marker
+Heading(5)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(5)	strike	Bullet	Bullet	Bullet
+Heading(5)	strike	Number	Number	Number
+Heading(5)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(5)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(5)	strike	Indent	Indent decoration	Indent decoration
+Heading(5)	strike	TableSep	TableBorder	TableBorder
+Heading(5)	strike	TablePad	TablePad decoration	TablePad decoration
+Heading(5)	strike	Html	Html	Html
+Heading(5)	strike	ImageMarker	Image decoration	Image decoration
+Heading(5)	strike	FrontMatter	FrontMatter	FrontMatter
+Heading(5)	image	Text	Image	Image
+Heading(5)	image	Code	Image	Image
+Heading(5)	image	Marker	Marker	Marker
+Heading(5)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(5)	image	Bullet	Bullet	Bullet
+Heading(5)	image	Number	Number	Number
+Heading(5)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(5)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(5)	image	Indent	Indent decoration	Indent decoration
+Heading(5)	image	TableSep	TableBorder	TableBorder
+Heading(5)	image	TablePad	TablePad decoration	TablePad decoration
+Heading(5)	image	Html	Html	Html
+Heading(5)	image	ImageMarker	Image decoration	Image decoration
+Heading(5)	image	FrontMatter	FrontMatter	FrontMatter
+Heading(6)	-	Text	Heading(6)	Heading(6)
+Heading(6)	-	Code	InlineCode	InlineCode
+Heading(6)	-	Marker	Marker	Marker
+Heading(6)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(6)	-	Bullet	Bullet	Bullet
+Heading(6)	-	Number	Number	Number
+Heading(6)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(6)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(6)	-	Indent	Indent decoration	Indent decoration
+Heading(6)	-	TableSep	TableBorder	TableBorder
+Heading(6)	-	TablePad	TablePad decoration	TablePad decoration
+Heading(6)	-	Html	Html	Html
+Heading(6)	-	ImageMarker	Image decoration	Image decoration
+Heading(6)	-	FrontMatter	FrontMatter	FrontMatter
+Heading(6)	quote	Text	Heading(6)	Heading(6)
+Heading(6)	quote	Code	InlineCode	InlineCode
+Heading(6)	quote	Marker	Marker	Marker
+Heading(6)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(6)	quote	Bullet	Bullet	Bullet
+Heading(6)	quote	Number	Number	Number
+Heading(6)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(6)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(6)	quote	Indent	Indent decoration	Indent decoration
+Heading(6)	quote	TableSep	TableBorder	TableBorder
+Heading(6)	quote	TablePad	TablePad decoration	TablePad decoration
+Heading(6)	quote	Html	Html	Html
+Heading(6)	quote	ImageMarker	Image decoration	Image decoration
+Heading(6)	quote	FrontMatter	FrontMatter	FrontMatter
+Heading(6)	task	Text	Heading(6)	Heading(6)
+Heading(6)	task	Code	InlineCode	InlineCode
+Heading(6)	task	Marker	Marker	Marker
+Heading(6)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(6)	task	Bullet	Bullet	Bullet
+Heading(6)	task	Number	Number	Number
+Heading(6)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(6)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(6)	task	Indent	Indent decoration	Indent decoration
+Heading(6)	task	TableSep	TableBorder	TableBorder
+Heading(6)	task	TablePad	TablePad decoration	TablePad decoration
+Heading(6)	task	Html	Html	Html
+Heading(6)	task	ImageMarker	Image decoration	Image decoration
+Heading(6)	task	FrontMatter	FrontMatter	FrontMatter
+Heading(6)	done	Text	Heading(6)	Heading(6) strike,dim
+Heading(6)	done	Code	InlineCode	InlineCode strike,dim
+Heading(6)	done	Marker	Marker	Marker
+Heading(6)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(6)	done	Bullet	Bullet	Bullet
+Heading(6)	done	Number	Number	Number
+Heading(6)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(6)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(6)	done	Indent	Indent decoration	Indent decoration
+Heading(6)	done	TableSep	TableBorder	TableBorder
+Heading(6)	done	TablePad	TablePad decoration	TablePad decoration
+Heading(6)	done	Html	Html	Html
+Heading(6)	done	ImageMarker	Image decoration	Image decoration
+Heading(6)	done	FrontMatter	FrontMatter	FrontMatter
+Heading(6)	strong+emph+link	Text	Heading(6) bold,italic,link	Heading(6) bold,italic,link
+Heading(6)	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+Heading(6)	strong+emph+link	Marker	Marker	Marker
+Heading(6)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(6)	strong+emph+link	Bullet	Bullet	Bullet
+Heading(6)	strong+emph+link	Number	Number	Number
+Heading(6)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(6)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(6)	strong+emph+link	Indent	Indent decoration	Indent decoration
+Heading(6)	strong+emph+link	TableSep	TableBorder	TableBorder
+Heading(6)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Heading(6)	strong+emph+link	Html	Html	Html
+Heading(6)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Heading(6)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Heading(6)	strike	Text	Heading(6) strike,dim	Heading(6) strike,dim
+Heading(6)	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+Heading(6)	strike	Marker	Marker	Marker
+Heading(6)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(6)	strike	Bullet	Bullet	Bullet
+Heading(6)	strike	Number	Number	Number
+Heading(6)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(6)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(6)	strike	Indent	Indent decoration	Indent decoration
+Heading(6)	strike	TableSep	TableBorder	TableBorder
+Heading(6)	strike	TablePad	TablePad decoration	TablePad decoration
+Heading(6)	strike	Html	Html	Html
+Heading(6)	strike	ImageMarker	Image decoration	Image decoration
+Heading(6)	strike	FrontMatter	FrontMatter	FrontMatter
+Heading(6)	image	Text	Image	Image
+Heading(6)	image	Code	Image	Image
+Heading(6)	image	Marker	Marker	Marker
+Heading(6)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Heading(6)	image	Bullet	Bullet	Bullet
+Heading(6)	image	Number	Number	Number
+Heading(6)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Heading(6)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Heading(6)	image	Indent	Indent decoration	Indent decoration
+Heading(6)	image	TableSep	TableBorder	TableBorder
+Heading(6)	image	TablePad	TablePad decoration	TablePad decoration
+Heading(6)	image	Html	Html	Html
+Heading(6)	image	ImageMarker	Image decoration	Image decoration
+Heading(6)	image	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(1)	-	Text	Heading(1)	Heading(1)
+SetextUnderline(1)	-	Code	InlineCode	InlineCode
+SetextUnderline(1)	-	Marker	Marker	Marker
+SetextUnderline(1)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(1)	-	Bullet	Bullet	Bullet
+SetextUnderline(1)	-	Number	Number	Number
+SetextUnderline(1)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(1)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(1)	-	Indent	Indent decoration	Indent decoration
+SetextUnderline(1)	-	TableSep	TableBorder	TableBorder
+SetextUnderline(1)	-	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(1)	-	Html	Html	Html
+SetextUnderline(1)	-	ImageMarker	Image decoration	Image decoration
+SetextUnderline(1)	-	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(1)	quote	Text	Heading(1) quote	Heading(1) quote
+SetextUnderline(1)	quote	Code	InlineCode quote	InlineCode quote
+SetextUnderline(1)	quote	Marker	Marker quote	Marker quote
+SetextUnderline(1)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(1)	quote	Bullet	Bullet	Bullet
+SetextUnderline(1)	quote	Number	Number	Number
+SetextUnderline(1)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(1)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(1)	quote	Indent	Indent decoration	Indent decoration
+SetextUnderline(1)	quote	TableSep	TableBorder	TableBorder
+SetextUnderline(1)	quote	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(1)	quote	Html	Html quote	Html quote
+SetextUnderline(1)	quote	ImageMarker	Image decoration	Image decoration
+SetextUnderline(1)	quote	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(1)	task	Text	Heading(1)	Heading(1)
+SetextUnderline(1)	task	Code	InlineCode	InlineCode
+SetextUnderline(1)	task	Marker	Marker	Marker
+SetextUnderline(1)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(1)	task	Bullet	Bullet	Bullet
+SetextUnderline(1)	task	Number	Number	Number
+SetextUnderline(1)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(1)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(1)	task	Indent	Indent decoration	Indent decoration
+SetextUnderline(1)	task	TableSep	TableBorder	TableBorder
+SetextUnderline(1)	task	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(1)	task	Html	Html	Html
+SetextUnderline(1)	task	ImageMarker	Image decoration	Image decoration
+SetextUnderline(1)	task	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(1)	done	Text	Heading(1)	Heading(1) strike,dim
+SetextUnderline(1)	done	Code	InlineCode	InlineCode strike,dim
+SetextUnderline(1)	done	Marker	Marker	Marker
+SetextUnderline(1)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(1)	done	Bullet	Bullet	Bullet
+SetextUnderline(1)	done	Number	Number	Number
+SetextUnderline(1)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(1)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(1)	done	Indent	Indent decoration	Indent decoration
+SetextUnderline(1)	done	TableSep	TableBorder	TableBorder
+SetextUnderline(1)	done	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(1)	done	Html	Html	Html
+SetextUnderline(1)	done	ImageMarker	Image decoration	Image decoration
+SetextUnderline(1)	done	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(1)	strong+emph+link	Text	Heading(1) bold,italic,link	Heading(1) bold,italic,link
+SetextUnderline(1)	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+SetextUnderline(1)	strong+emph+link	Marker	Marker	Marker
+SetextUnderline(1)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(1)	strong+emph+link	Bullet	Bullet	Bullet
+SetextUnderline(1)	strong+emph+link	Number	Number	Number
+SetextUnderline(1)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(1)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(1)	strong+emph+link	Indent	Indent decoration	Indent decoration
+SetextUnderline(1)	strong+emph+link	TableSep	TableBorder	TableBorder
+SetextUnderline(1)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(1)	strong+emph+link	Html	Html	Html
+SetextUnderline(1)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+SetextUnderline(1)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(1)	strike	Text	Heading(1) strike,dim	Heading(1) strike,dim
+SetextUnderline(1)	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+SetextUnderline(1)	strike	Marker	Marker	Marker
+SetextUnderline(1)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(1)	strike	Bullet	Bullet	Bullet
+SetextUnderline(1)	strike	Number	Number	Number
+SetextUnderline(1)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(1)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(1)	strike	Indent	Indent decoration	Indent decoration
+SetextUnderline(1)	strike	TableSep	TableBorder	TableBorder
+SetextUnderline(1)	strike	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(1)	strike	Html	Html	Html
+SetextUnderline(1)	strike	ImageMarker	Image decoration	Image decoration
+SetextUnderline(1)	strike	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(1)	image	Text	Image	Image
+SetextUnderline(1)	image	Code	Image	Image
+SetextUnderline(1)	image	Marker	Marker	Marker
+SetextUnderline(1)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(1)	image	Bullet	Bullet	Bullet
+SetextUnderline(1)	image	Number	Number	Number
+SetextUnderline(1)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(1)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(1)	image	Indent	Indent decoration	Indent decoration
+SetextUnderline(1)	image	TableSep	TableBorder	TableBorder
+SetextUnderline(1)	image	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(1)	image	Html	Html	Html
+SetextUnderline(1)	image	ImageMarker	Image decoration	Image decoration
+SetextUnderline(1)	image	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(2)	-	Text	Heading(2)	Heading(2)
+SetextUnderline(2)	-	Code	InlineCode	InlineCode
+SetextUnderline(2)	-	Marker	Marker	Marker
+SetextUnderline(2)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(2)	-	Bullet	Bullet	Bullet
+SetextUnderline(2)	-	Number	Number	Number
+SetextUnderline(2)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(2)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(2)	-	Indent	Indent decoration	Indent decoration
+SetextUnderline(2)	-	TableSep	TableBorder	TableBorder
+SetextUnderline(2)	-	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(2)	-	Html	Html	Html
+SetextUnderline(2)	-	ImageMarker	Image decoration	Image decoration
+SetextUnderline(2)	-	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(2)	quote	Text	Heading(2) quote	Heading(2) quote
+SetextUnderline(2)	quote	Code	InlineCode quote	InlineCode quote
+SetextUnderline(2)	quote	Marker	Marker quote	Marker quote
+SetextUnderline(2)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(2)	quote	Bullet	Bullet	Bullet
+SetextUnderline(2)	quote	Number	Number	Number
+SetextUnderline(2)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(2)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(2)	quote	Indent	Indent decoration	Indent decoration
+SetextUnderline(2)	quote	TableSep	TableBorder	TableBorder
+SetextUnderline(2)	quote	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(2)	quote	Html	Html quote	Html quote
+SetextUnderline(2)	quote	ImageMarker	Image decoration	Image decoration
+SetextUnderline(2)	quote	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(2)	task	Text	Heading(2)	Heading(2)
+SetextUnderline(2)	task	Code	InlineCode	InlineCode
+SetextUnderline(2)	task	Marker	Marker	Marker
+SetextUnderline(2)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(2)	task	Bullet	Bullet	Bullet
+SetextUnderline(2)	task	Number	Number	Number
+SetextUnderline(2)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(2)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(2)	task	Indent	Indent decoration	Indent decoration
+SetextUnderline(2)	task	TableSep	TableBorder	TableBorder
+SetextUnderline(2)	task	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(2)	task	Html	Html	Html
+SetextUnderline(2)	task	ImageMarker	Image decoration	Image decoration
+SetextUnderline(2)	task	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(2)	done	Text	Heading(2)	Heading(2) strike,dim
+SetextUnderline(2)	done	Code	InlineCode	InlineCode strike,dim
+SetextUnderline(2)	done	Marker	Marker	Marker
+SetextUnderline(2)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(2)	done	Bullet	Bullet	Bullet
+SetextUnderline(2)	done	Number	Number	Number
+SetextUnderline(2)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(2)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(2)	done	Indent	Indent decoration	Indent decoration
+SetextUnderline(2)	done	TableSep	TableBorder	TableBorder
+SetextUnderline(2)	done	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(2)	done	Html	Html	Html
+SetextUnderline(2)	done	ImageMarker	Image decoration	Image decoration
+SetextUnderline(2)	done	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(2)	strong+emph+link	Text	Heading(2) bold,italic,link	Heading(2) bold,italic,link
+SetextUnderline(2)	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+SetextUnderline(2)	strong+emph+link	Marker	Marker	Marker
+SetextUnderline(2)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(2)	strong+emph+link	Bullet	Bullet	Bullet
+SetextUnderline(2)	strong+emph+link	Number	Number	Number
+SetextUnderline(2)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(2)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(2)	strong+emph+link	Indent	Indent decoration	Indent decoration
+SetextUnderline(2)	strong+emph+link	TableSep	TableBorder	TableBorder
+SetextUnderline(2)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(2)	strong+emph+link	Html	Html	Html
+SetextUnderline(2)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+SetextUnderline(2)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(2)	strike	Text	Heading(2) strike,dim	Heading(2) strike,dim
+SetextUnderline(2)	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+SetextUnderline(2)	strike	Marker	Marker	Marker
+SetextUnderline(2)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(2)	strike	Bullet	Bullet	Bullet
+SetextUnderline(2)	strike	Number	Number	Number
+SetextUnderline(2)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(2)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(2)	strike	Indent	Indent decoration	Indent decoration
+SetextUnderline(2)	strike	TableSep	TableBorder	TableBorder
+SetextUnderline(2)	strike	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(2)	strike	Html	Html	Html
+SetextUnderline(2)	strike	ImageMarker	Image decoration	Image decoration
+SetextUnderline(2)	strike	FrontMatter	FrontMatter	FrontMatter
+SetextUnderline(2)	image	Text	Image	Image
+SetextUnderline(2)	image	Code	Image	Image
+SetextUnderline(2)	image	Marker	Marker	Marker
+SetextUnderline(2)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+SetextUnderline(2)	image	Bullet	Bullet	Bullet
+SetextUnderline(2)	image	Number	Number	Number
+SetextUnderline(2)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+SetextUnderline(2)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+SetextUnderline(2)	image	Indent	Indent decoration	Indent decoration
+SetextUnderline(2)	image	TableSep	TableBorder	TableBorder
+SetextUnderline(2)	image	TablePad	TablePad decoration	TablePad decoration
+SetextUnderline(2)	image	Html	Html	Html
+SetextUnderline(2)	image	ImageMarker	Image decoration	Image decoration
+SetextUnderline(2)	image	FrontMatter	FrontMatter	FrontMatter
+CodeFence(rust,opening)	-	Text	CodeBlock	CodeBlock
+CodeFence(rust,opening)	-	Code	CodeBlock	CodeBlock
+CodeFence(rust,opening)	-	Marker	Marker	Marker
+CodeFence(rust,opening)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(rust,opening)	-	Bullet	Bullet	Bullet
+CodeFence(rust,opening)	-	Number	Number	Number
+CodeFence(rust,opening)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(rust,opening)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(rust,opening)	-	Indent	Indent decoration	Indent decoration
+CodeFence(rust,opening)	-	TableSep	TableBorder	TableBorder
+CodeFence(rust,opening)	-	TablePad	TablePad decoration	TablePad decoration
+CodeFence(rust,opening)	-	Html	Html	Html
+CodeFence(rust,opening)	-	ImageMarker	Image decoration	Image decoration
+CodeFence(rust,opening)	-	FrontMatter	FrontMatter	FrontMatter
+CodeFence(rust,opening)	quote	Text	CodeBlock	CodeBlock
+CodeFence(rust,opening)	quote	Code	CodeBlock	CodeBlock
+CodeFence(rust,opening)	quote	Marker	Marker	Marker
+CodeFence(rust,opening)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(rust,opening)	quote	Bullet	Bullet	Bullet
+CodeFence(rust,opening)	quote	Number	Number	Number
+CodeFence(rust,opening)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(rust,opening)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(rust,opening)	quote	Indent	Indent decoration	Indent decoration
+CodeFence(rust,opening)	quote	TableSep	TableBorder	TableBorder
+CodeFence(rust,opening)	quote	TablePad	TablePad decoration	TablePad decoration
+CodeFence(rust,opening)	quote	Html	Html	Html
+CodeFence(rust,opening)	quote	ImageMarker	Image decoration	Image decoration
+CodeFence(rust,opening)	quote	FrontMatter	FrontMatter	FrontMatter
+CodeFence(rust,opening)	task	Text	CodeBlock	CodeBlock
+CodeFence(rust,opening)	task	Code	CodeBlock	CodeBlock
+CodeFence(rust,opening)	task	Marker	Marker	Marker
+CodeFence(rust,opening)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(rust,opening)	task	Bullet	Bullet	Bullet
+CodeFence(rust,opening)	task	Number	Number	Number
+CodeFence(rust,opening)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(rust,opening)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(rust,opening)	task	Indent	Indent decoration	Indent decoration
+CodeFence(rust,opening)	task	TableSep	TableBorder	TableBorder
+CodeFence(rust,opening)	task	TablePad	TablePad decoration	TablePad decoration
+CodeFence(rust,opening)	task	Html	Html	Html
+CodeFence(rust,opening)	task	ImageMarker	Image decoration	Image decoration
+CodeFence(rust,opening)	task	FrontMatter	FrontMatter	FrontMatter
+CodeFence(rust,opening)	done	Text	CodeBlock	CodeBlock strike,dim
+CodeFence(rust,opening)	done	Code	CodeBlock	CodeBlock strike,dim
+CodeFence(rust,opening)	done	Marker	Marker	Marker
+CodeFence(rust,opening)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(rust,opening)	done	Bullet	Bullet	Bullet
+CodeFence(rust,opening)	done	Number	Number	Number
+CodeFence(rust,opening)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(rust,opening)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(rust,opening)	done	Indent	Indent decoration	Indent decoration
+CodeFence(rust,opening)	done	TableSep	TableBorder	TableBorder
+CodeFence(rust,opening)	done	TablePad	TablePad decoration	TablePad decoration
+CodeFence(rust,opening)	done	Html	Html	Html
+CodeFence(rust,opening)	done	ImageMarker	Image decoration	Image decoration
+CodeFence(rust,opening)	done	FrontMatter	FrontMatter	FrontMatter
+CodeFence(rust,opening)	strong+emph+link	Text	CodeBlock bold,italic,link	CodeBlock bold,italic,link
+CodeFence(rust,opening)	strong+emph+link	Code	CodeBlock bold,italic,link	CodeBlock bold,italic,link
+CodeFence(rust,opening)	strong+emph+link	Marker	Marker	Marker
+CodeFence(rust,opening)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(rust,opening)	strong+emph+link	Bullet	Bullet	Bullet
+CodeFence(rust,opening)	strong+emph+link	Number	Number	Number
+CodeFence(rust,opening)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(rust,opening)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(rust,opening)	strong+emph+link	Indent	Indent decoration	Indent decoration
+CodeFence(rust,opening)	strong+emph+link	TableSep	TableBorder	TableBorder
+CodeFence(rust,opening)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+CodeFence(rust,opening)	strong+emph+link	Html	Html	Html
+CodeFence(rust,opening)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+CodeFence(rust,opening)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+CodeFence(rust,opening)	strike	Text	CodeBlock strike,dim	CodeBlock strike,dim
+CodeFence(rust,opening)	strike	Code	CodeBlock strike,dim	CodeBlock strike,dim
+CodeFence(rust,opening)	strike	Marker	Marker	Marker
+CodeFence(rust,opening)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(rust,opening)	strike	Bullet	Bullet	Bullet
+CodeFence(rust,opening)	strike	Number	Number	Number
+CodeFence(rust,opening)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(rust,opening)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(rust,opening)	strike	Indent	Indent decoration	Indent decoration
+CodeFence(rust,opening)	strike	TableSep	TableBorder	TableBorder
+CodeFence(rust,opening)	strike	TablePad	TablePad decoration	TablePad decoration
+CodeFence(rust,opening)	strike	Html	Html	Html
+CodeFence(rust,opening)	strike	ImageMarker	Image decoration	Image decoration
+CodeFence(rust,opening)	strike	FrontMatter	FrontMatter	FrontMatter
+CodeFence(rust,opening)	image	Text	Image	Image
+CodeFence(rust,opening)	image	Code	Image	Image
+CodeFence(rust,opening)	image	Marker	Marker	Marker
+CodeFence(rust,opening)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(rust,opening)	image	Bullet	Bullet	Bullet
+CodeFence(rust,opening)	image	Number	Number	Number
+CodeFence(rust,opening)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(rust,opening)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(rust,opening)	image	Indent	Indent decoration	Indent decoration
+CodeFence(rust,opening)	image	TableSep	TableBorder	TableBorder
+CodeFence(rust,opening)	image	TablePad	TablePad decoration	TablePad decoration
+CodeFence(rust,opening)	image	Html	Html	Html
+CodeFence(rust,opening)	image	ImageMarker	Image decoration	Image decoration
+CodeFence(rust,opening)	image	FrontMatter	FrontMatter	FrontMatter
+CodeFence(-,closing)	-	Text	CodeBlock	CodeBlock
+CodeFence(-,closing)	-	Code	CodeBlock	CodeBlock
+CodeFence(-,closing)	-	Marker	Marker	Marker
+CodeFence(-,closing)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(-,closing)	-	Bullet	Bullet	Bullet
+CodeFence(-,closing)	-	Number	Number	Number
+CodeFence(-,closing)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(-,closing)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(-,closing)	-	Indent	Indent decoration	Indent decoration
+CodeFence(-,closing)	-	TableSep	TableBorder	TableBorder
+CodeFence(-,closing)	-	TablePad	TablePad decoration	TablePad decoration
+CodeFence(-,closing)	-	Html	Html	Html
+CodeFence(-,closing)	-	ImageMarker	Image decoration	Image decoration
+CodeFence(-,closing)	-	FrontMatter	FrontMatter	FrontMatter
+CodeFence(-,closing)	quote	Text	CodeBlock	CodeBlock
+CodeFence(-,closing)	quote	Code	CodeBlock	CodeBlock
+CodeFence(-,closing)	quote	Marker	Marker	Marker
+CodeFence(-,closing)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(-,closing)	quote	Bullet	Bullet	Bullet
+CodeFence(-,closing)	quote	Number	Number	Number
+CodeFence(-,closing)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(-,closing)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(-,closing)	quote	Indent	Indent decoration	Indent decoration
+CodeFence(-,closing)	quote	TableSep	TableBorder	TableBorder
+CodeFence(-,closing)	quote	TablePad	TablePad decoration	TablePad decoration
+CodeFence(-,closing)	quote	Html	Html	Html
+CodeFence(-,closing)	quote	ImageMarker	Image decoration	Image decoration
+CodeFence(-,closing)	quote	FrontMatter	FrontMatter	FrontMatter
+CodeFence(-,closing)	task	Text	CodeBlock	CodeBlock
+CodeFence(-,closing)	task	Code	CodeBlock	CodeBlock
+CodeFence(-,closing)	task	Marker	Marker	Marker
+CodeFence(-,closing)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(-,closing)	task	Bullet	Bullet	Bullet
+CodeFence(-,closing)	task	Number	Number	Number
+CodeFence(-,closing)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(-,closing)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(-,closing)	task	Indent	Indent decoration	Indent decoration
+CodeFence(-,closing)	task	TableSep	TableBorder	TableBorder
+CodeFence(-,closing)	task	TablePad	TablePad decoration	TablePad decoration
+CodeFence(-,closing)	task	Html	Html	Html
+CodeFence(-,closing)	task	ImageMarker	Image decoration	Image decoration
+CodeFence(-,closing)	task	FrontMatter	FrontMatter	FrontMatter
+CodeFence(-,closing)	done	Text	CodeBlock	CodeBlock strike,dim
+CodeFence(-,closing)	done	Code	CodeBlock	CodeBlock strike,dim
+CodeFence(-,closing)	done	Marker	Marker	Marker
+CodeFence(-,closing)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(-,closing)	done	Bullet	Bullet	Bullet
+CodeFence(-,closing)	done	Number	Number	Number
+CodeFence(-,closing)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(-,closing)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(-,closing)	done	Indent	Indent decoration	Indent decoration
+CodeFence(-,closing)	done	TableSep	TableBorder	TableBorder
+CodeFence(-,closing)	done	TablePad	TablePad decoration	TablePad decoration
+CodeFence(-,closing)	done	Html	Html	Html
+CodeFence(-,closing)	done	ImageMarker	Image decoration	Image decoration
+CodeFence(-,closing)	done	FrontMatter	FrontMatter	FrontMatter
+CodeFence(-,closing)	strong+emph+link	Text	CodeBlock bold,italic,link	CodeBlock bold,italic,link
+CodeFence(-,closing)	strong+emph+link	Code	CodeBlock bold,italic,link	CodeBlock bold,italic,link
+CodeFence(-,closing)	strong+emph+link	Marker	Marker	Marker
+CodeFence(-,closing)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(-,closing)	strong+emph+link	Bullet	Bullet	Bullet
+CodeFence(-,closing)	strong+emph+link	Number	Number	Number
+CodeFence(-,closing)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(-,closing)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(-,closing)	strong+emph+link	Indent	Indent decoration	Indent decoration
+CodeFence(-,closing)	strong+emph+link	TableSep	TableBorder	TableBorder
+CodeFence(-,closing)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+CodeFence(-,closing)	strong+emph+link	Html	Html	Html
+CodeFence(-,closing)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+CodeFence(-,closing)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+CodeFence(-,closing)	strike	Text	CodeBlock strike,dim	CodeBlock strike,dim
+CodeFence(-,closing)	strike	Code	CodeBlock strike,dim	CodeBlock strike,dim
+CodeFence(-,closing)	strike	Marker	Marker	Marker
+CodeFence(-,closing)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(-,closing)	strike	Bullet	Bullet	Bullet
+CodeFence(-,closing)	strike	Number	Number	Number
+CodeFence(-,closing)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(-,closing)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(-,closing)	strike	Indent	Indent decoration	Indent decoration
+CodeFence(-,closing)	strike	TableSep	TableBorder	TableBorder
+CodeFence(-,closing)	strike	TablePad	TablePad decoration	TablePad decoration
+CodeFence(-,closing)	strike	Html	Html	Html
+CodeFence(-,closing)	strike	ImageMarker	Image decoration	Image decoration
+CodeFence(-,closing)	strike	FrontMatter	FrontMatter	FrontMatter
+CodeFence(-,closing)	image	Text	Image	Image
+CodeFence(-,closing)	image	Code	Image	Image
+CodeFence(-,closing)	image	Marker	Marker	Marker
+CodeFence(-,closing)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+CodeFence(-,closing)	image	Bullet	Bullet	Bullet
+CodeFence(-,closing)	image	Number	Number	Number
+CodeFence(-,closing)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+CodeFence(-,closing)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+CodeFence(-,closing)	image	Indent	Indent decoration	Indent decoration
+CodeFence(-,closing)	image	TableSep	TableBorder	TableBorder
+CodeFence(-,closing)	image	TablePad	TablePad decoration	TablePad decoration
+CodeFence(-,closing)	image	Html	Html	Html
+CodeFence(-,closing)	image	ImageMarker	Image decoration	Image decoration
+CodeFence(-,closing)	image	FrontMatter	FrontMatter	FrontMatter
+Code(fenced)	-	Text	CodeBlock	CodeBlock
+Code(fenced)	-	Code	CodeBlock	CodeBlock
+Code(fenced)	-	Marker	Marker	Marker
+Code(fenced)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(fenced)	-	Bullet	Bullet	Bullet
+Code(fenced)	-	Number	Number	Number
+Code(fenced)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(fenced)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(fenced)	-	Indent	Indent decoration	Indent decoration
+Code(fenced)	-	TableSep	TableBorder	TableBorder
+Code(fenced)	-	TablePad	TablePad decoration	TablePad decoration
+Code(fenced)	-	Html	Html	Html
+Code(fenced)	-	ImageMarker	Image decoration	Image decoration
+Code(fenced)	-	FrontMatter	FrontMatter	FrontMatter
+Code(fenced)	quote	Text	CodeBlock	CodeBlock
+Code(fenced)	quote	Code	CodeBlock	CodeBlock
+Code(fenced)	quote	Marker	Marker	Marker
+Code(fenced)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(fenced)	quote	Bullet	Bullet	Bullet
+Code(fenced)	quote	Number	Number	Number
+Code(fenced)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(fenced)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(fenced)	quote	Indent	Indent decoration	Indent decoration
+Code(fenced)	quote	TableSep	TableBorder	TableBorder
+Code(fenced)	quote	TablePad	TablePad decoration	TablePad decoration
+Code(fenced)	quote	Html	Html	Html
+Code(fenced)	quote	ImageMarker	Image decoration	Image decoration
+Code(fenced)	quote	FrontMatter	FrontMatter	FrontMatter
+Code(fenced)	task	Text	CodeBlock	CodeBlock
+Code(fenced)	task	Code	CodeBlock	CodeBlock
+Code(fenced)	task	Marker	Marker	Marker
+Code(fenced)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(fenced)	task	Bullet	Bullet	Bullet
+Code(fenced)	task	Number	Number	Number
+Code(fenced)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(fenced)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(fenced)	task	Indent	Indent decoration	Indent decoration
+Code(fenced)	task	TableSep	TableBorder	TableBorder
+Code(fenced)	task	TablePad	TablePad decoration	TablePad decoration
+Code(fenced)	task	Html	Html	Html
+Code(fenced)	task	ImageMarker	Image decoration	Image decoration
+Code(fenced)	task	FrontMatter	FrontMatter	FrontMatter
+Code(fenced)	done	Text	CodeBlock	CodeBlock strike,dim
+Code(fenced)	done	Code	CodeBlock	CodeBlock strike,dim
+Code(fenced)	done	Marker	Marker	Marker
+Code(fenced)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(fenced)	done	Bullet	Bullet	Bullet
+Code(fenced)	done	Number	Number	Number
+Code(fenced)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(fenced)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(fenced)	done	Indent	Indent decoration	Indent decoration
+Code(fenced)	done	TableSep	TableBorder	TableBorder
+Code(fenced)	done	TablePad	TablePad decoration	TablePad decoration
+Code(fenced)	done	Html	Html	Html
+Code(fenced)	done	ImageMarker	Image decoration	Image decoration
+Code(fenced)	done	FrontMatter	FrontMatter	FrontMatter
+Code(fenced)	strong+emph+link	Text	CodeBlock bold,italic,link	CodeBlock bold,italic,link
+Code(fenced)	strong+emph+link	Code	CodeBlock bold,italic,link	CodeBlock bold,italic,link
+Code(fenced)	strong+emph+link	Marker	Marker	Marker
+Code(fenced)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(fenced)	strong+emph+link	Bullet	Bullet	Bullet
+Code(fenced)	strong+emph+link	Number	Number	Number
+Code(fenced)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(fenced)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(fenced)	strong+emph+link	Indent	Indent decoration	Indent decoration
+Code(fenced)	strong+emph+link	TableSep	TableBorder	TableBorder
+Code(fenced)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Code(fenced)	strong+emph+link	Html	Html	Html
+Code(fenced)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Code(fenced)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Code(fenced)	strike	Text	CodeBlock strike,dim	CodeBlock strike,dim
+Code(fenced)	strike	Code	CodeBlock strike,dim	CodeBlock strike,dim
+Code(fenced)	strike	Marker	Marker	Marker
+Code(fenced)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(fenced)	strike	Bullet	Bullet	Bullet
+Code(fenced)	strike	Number	Number	Number
+Code(fenced)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(fenced)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(fenced)	strike	Indent	Indent decoration	Indent decoration
+Code(fenced)	strike	TableSep	TableBorder	TableBorder
+Code(fenced)	strike	TablePad	TablePad decoration	TablePad decoration
+Code(fenced)	strike	Html	Html	Html
+Code(fenced)	strike	ImageMarker	Image decoration	Image decoration
+Code(fenced)	strike	FrontMatter	FrontMatter	FrontMatter
+Code(fenced)	image	Text	Image	Image
+Code(fenced)	image	Code	Image	Image
+Code(fenced)	image	Marker	Marker	Marker
+Code(fenced)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(fenced)	image	Bullet	Bullet	Bullet
+Code(fenced)	image	Number	Number	Number
+Code(fenced)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(fenced)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(fenced)	image	Indent	Indent decoration	Indent decoration
+Code(fenced)	image	TableSep	TableBorder	TableBorder
+Code(fenced)	image	TablePad	TablePad decoration	TablePad decoration
+Code(fenced)	image	Html	Html	Html
+Code(fenced)	image	ImageMarker	Image decoration	Image decoration
+Code(fenced)	image	FrontMatter	FrontMatter	FrontMatter
+Code(indented)	-	Text	CodeBlock	CodeBlock
+Code(indented)	-	Code	CodeBlock	CodeBlock
+Code(indented)	-	Marker	Marker	Marker
+Code(indented)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(indented)	-	Bullet	Bullet	Bullet
+Code(indented)	-	Number	Number	Number
+Code(indented)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(indented)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(indented)	-	Indent	Indent decoration	Indent decoration
+Code(indented)	-	TableSep	TableBorder	TableBorder
+Code(indented)	-	TablePad	TablePad decoration	TablePad decoration
+Code(indented)	-	Html	Html	Html
+Code(indented)	-	ImageMarker	Image decoration	Image decoration
+Code(indented)	-	FrontMatter	FrontMatter	FrontMatter
+Code(indented)	quote	Text	CodeBlock	CodeBlock
+Code(indented)	quote	Code	CodeBlock	CodeBlock
+Code(indented)	quote	Marker	Marker	Marker
+Code(indented)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(indented)	quote	Bullet	Bullet	Bullet
+Code(indented)	quote	Number	Number	Number
+Code(indented)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(indented)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(indented)	quote	Indent	Indent decoration	Indent decoration
+Code(indented)	quote	TableSep	TableBorder	TableBorder
+Code(indented)	quote	TablePad	TablePad decoration	TablePad decoration
+Code(indented)	quote	Html	Html	Html
+Code(indented)	quote	ImageMarker	Image decoration	Image decoration
+Code(indented)	quote	FrontMatter	FrontMatter	FrontMatter
+Code(indented)	task	Text	CodeBlock	CodeBlock
+Code(indented)	task	Code	CodeBlock	CodeBlock
+Code(indented)	task	Marker	Marker	Marker
+Code(indented)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(indented)	task	Bullet	Bullet	Bullet
+Code(indented)	task	Number	Number	Number
+Code(indented)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(indented)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(indented)	task	Indent	Indent decoration	Indent decoration
+Code(indented)	task	TableSep	TableBorder	TableBorder
+Code(indented)	task	TablePad	TablePad decoration	TablePad decoration
+Code(indented)	task	Html	Html	Html
+Code(indented)	task	ImageMarker	Image decoration	Image decoration
+Code(indented)	task	FrontMatter	FrontMatter	FrontMatter
+Code(indented)	done	Text	CodeBlock	CodeBlock strike,dim
+Code(indented)	done	Code	CodeBlock	CodeBlock strike,dim
+Code(indented)	done	Marker	Marker	Marker
+Code(indented)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(indented)	done	Bullet	Bullet	Bullet
+Code(indented)	done	Number	Number	Number
+Code(indented)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(indented)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(indented)	done	Indent	Indent decoration	Indent decoration
+Code(indented)	done	TableSep	TableBorder	TableBorder
+Code(indented)	done	TablePad	TablePad decoration	TablePad decoration
+Code(indented)	done	Html	Html	Html
+Code(indented)	done	ImageMarker	Image decoration	Image decoration
+Code(indented)	done	FrontMatter	FrontMatter	FrontMatter
+Code(indented)	strong+emph+link	Text	CodeBlock bold,italic,link	CodeBlock bold,italic,link
+Code(indented)	strong+emph+link	Code	CodeBlock bold,italic,link	CodeBlock bold,italic,link
+Code(indented)	strong+emph+link	Marker	Marker	Marker
+Code(indented)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(indented)	strong+emph+link	Bullet	Bullet	Bullet
+Code(indented)	strong+emph+link	Number	Number	Number
+Code(indented)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(indented)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(indented)	strong+emph+link	Indent	Indent decoration	Indent decoration
+Code(indented)	strong+emph+link	TableSep	TableBorder	TableBorder
+Code(indented)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Code(indented)	strong+emph+link	Html	Html	Html
+Code(indented)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Code(indented)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Code(indented)	strike	Text	CodeBlock strike,dim	CodeBlock strike,dim
+Code(indented)	strike	Code	CodeBlock strike,dim	CodeBlock strike,dim
+Code(indented)	strike	Marker	Marker	Marker
+Code(indented)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(indented)	strike	Bullet	Bullet	Bullet
+Code(indented)	strike	Number	Number	Number
+Code(indented)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(indented)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(indented)	strike	Indent	Indent decoration	Indent decoration
+Code(indented)	strike	TableSep	TableBorder	TableBorder
+Code(indented)	strike	TablePad	TablePad decoration	TablePad decoration
+Code(indented)	strike	Html	Html	Html
+Code(indented)	strike	ImageMarker	Image decoration	Image decoration
+Code(indented)	strike	FrontMatter	FrontMatter	FrontMatter
+Code(indented)	image	Text	Image	Image
+Code(indented)	image	Code	Image	Image
+Code(indented)	image	Marker	Marker	Marker
+Code(indented)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Code(indented)	image	Bullet	Bullet	Bullet
+Code(indented)	image	Number	Number	Number
+Code(indented)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Code(indented)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Code(indented)	image	Indent	Indent decoration	Indent decoration
+Code(indented)	image	TableSep	TableBorder	TableBorder
+Code(indented)	image	TablePad	TablePad decoration	TablePad decoration
+Code(indented)	image	Html	Html	Html
+Code(indented)	image	ImageMarker	Image decoration	Image decoration
+Code(indented)	image	FrontMatter	FrontMatter	FrontMatter
+TableRow(header)	-	Text	Body bold	Body bold
+TableRow(header)	-	Code	InlineCode bold	InlineCode bold
+TableRow(header)	-	Marker	Marker bold	Marker bold
+TableRow(header)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(header)	-	Bullet	Bullet	Bullet
+TableRow(header)	-	Number	Number	Number
+TableRow(header)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(header)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(header)	-	Indent	Indent decoration	Indent decoration
+TableRow(header)	-	TableSep	TableBorder	TableBorder
+TableRow(header)	-	TablePad	TablePad decoration	TablePad decoration
+TableRow(header)	-	Html	Html bold	Html bold
+TableRow(header)	-	ImageMarker	Image decoration	Image decoration
+TableRow(header)	-	FrontMatter	FrontMatter	FrontMatter
+TableRow(header)	quote	Text	Body bold,quote	Body bold,quote
+TableRow(header)	quote	Code	InlineCode bold,quote	InlineCode bold,quote
+TableRow(header)	quote	Marker	Marker bold,quote	Marker bold,quote
+TableRow(header)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(header)	quote	Bullet	Bullet	Bullet
+TableRow(header)	quote	Number	Number	Number
+TableRow(header)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(header)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(header)	quote	Indent	Indent decoration	Indent decoration
+TableRow(header)	quote	TableSep	TableBorder	TableBorder
+TableRow(header)	quote	TablePad	TablePad decoration	TablePad decoration
+TableRow(header)	quote	Html	Html bold,quote	Html bold,quote
+TableRow(header)	quote	ImageMarker	Image decoration	Image decoration
+TableRow(header)	quote	FrontMatter	FrontMatter	FrontMatter
+TableRow(header)	task	Text	Body bold	Body bold
+TableRow(header)	task	Code	InlineCode bold	InlineCode bold
+TableRow(header)	task	Marker	Marker bold	Marker bold
+TableRow(header)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(header)	task	Bullet	Bullet	Bullet
+TableRow(header)	task	Number	Number	Number
+TableRow(header)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(header)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(header)	task	Indent	Indent decoration	Indent decoration
+TableRow(header)	task	TableSep	TableBorder	TableBorder
+TableRow(header)	task	TablePad	TablePad decoration	TablePad decoration
+TableRow(header)	task	Html	Html bold	Html bold
+TableRow(header)	task	ImageMarker	Image decoration	Image decoration
+TableRow(header)	task	FrontMatter	FrontMatter	FrontMatter
+TableRow(header)	done	Text	Body bold	Body bold,strike,dim
+TableRow(header)	done	Code	InlineCode bold	InlineCode bold,strike,dim
+TableRow(header)	done	Marker	Marker bold	Marker bold
+TableRow(header)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(header)	done	Bullet	Bullet	Bullet
+TableRow(header)	done	Number	Number	Number
+TableRow(header)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(header)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(header)	done	Indent	Indent decoration	Indent decoration
+TableRow(header)	done	TableSep	TableBorder	TableBorder
+TableRow(header)	done	TablePad	TablePad decoration	TablePad decoration
+TableRow(header)	done	Html	Html bold	Html bold
+TableRow(header)	done	ImageMarker	Image decoration	Image decoration
+TableRow(header)	done	FrontMatter	FrontMatter	FrontMatter
+TableRow(header)	strong+emph+link	Text	Body bold,italic,link	Body bold,italic,link
+TableRow(header)	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+TableRow(header)	strong+emph+link	Marker	Marker bold	Marker bold
+TableRow(header)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(header)	strong+emph+link	Bullet	Bullet	Bullet
+TableRow(header)	strong+emph+link	Number	Number	Number
+TableRow(header)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(header)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(header)	strong+emph+link	Indent	Indent decoration	Indent decoration
+TableRow(header)	strong+emph+link	TableSep	TableBorder	TableBorder
+TableRow(header)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+TableRow(header)	strong+emph+link	Html	Html bold	Html bold
+TableRow(header)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+TableRow(header)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+TableRow(header)	strike	Text	Body bold,strike,dim	Body bold,strike,dim
+TableRow(header)	strike	Code	InlineCode bold,strike,dim	InlineCode bold,strike,dim
+TableRow(header)	strike	Marker	Marker bold	Marker bold
+TableRow(header)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(header)	strike	Bullet	Bullet	Bullet
+TableRow(header)	strike	Number	Number	Number
+TableRow(header)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(header)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(header)	strike	Indent	Indent decoration	Indent decoration
+TableRow(header)	strike	TableSep	TableBorder	TableBorder
+TableRow(header)	strike	TablePad	TablePad decoration	TablePad decoration
+TableRow(header)	strike	Html	Html bold	Html bold
+TableRow(header)	strike	ImageMarker	Image decoration	Image decoration
+TableRow(header)	strike	FrontMatter	FrontMatter	FrontMatter
+TableRow(header)	image	Text	Image bold	Image bold
+TableRow(header)	image	Code	Image bold	Image bold
+TableRow(header)	image	Marker	Marker bold	Marker bold
+TableRow(header)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(header)	image	Bullet	Bullet	Bullet
+TableRow(header)	image	Number	Number	Number
+TableRow(header)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(header)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(header)	image	Indent	Indent decoration	Indent decoration
+TableRow(header)	image	TableSep	TableBorder	TableBorder
+TableRow(header)	image	TablePad	TablePad decoration	TablePad decoration
+TableRow(header)	image	Html	Html bold	Html bold
+TableRow(header)	image	ImageMarker	Image decoration	Image decoration
+TableRow(header)	image	FrontMatter	FrontMatter	FrontMatter
+TableRow(body)	-	Text	Body	Body
+TableRow(body)	-	Code	InlineCode	InlineCode
+TableRow(body)	-	Marker	Marker	Marker
+TableRow(body)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(body)	-	Bullet	Bullet	Bullet
+TableRow(body)	-	Number	Number	Number
+TableRow(body)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(body)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(body)	-	Indent	Indent decoration	Indent decoration
+TableRow(body)	-	TableSep	TableBorder	TableBorder
+TableRow(body)	-	TablePad	TablePad decoration	TablePad decoration
+TableRow(body)	-	Html	Html	Html
+TableRow(body)	-	ImageMarker	Image decoration	Image decoration
+TableRow(body)	-	FrontMatter	FrontMatter	FrontMatter
+TableRow(body)	quote	Text	Body quote	Body quote
+TableRow(body)	quote	Code	InlineCode quote	InlineCode quote
+TableRow(body)	quote	Marker	Marker quote	Marker quote
+TableRow(body)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(body)	quote	Bullet	Bullet	Bullet
+TableRow(body)	quote	Number	Number	Number
+TableRow(body)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(body)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(body)	quote	Indent	Indent decoration	Indent decoration
+TableRow(body)	quote	TableSep	TableBorder	TableBorder
+TableRow(body)	quote	TablePad	TablePad decoration	TablePad decoration
+TableRow(body)	quote	Html	Html quote	Html quote
+TableRow(body)	quote	ImageMarker	Image decoration	Image decoration
+TableRow(body)	quote	FrontMatter	FrontMatter	FrontMatter
+TableRow(body)	task	Text	Body	Body
+TableRow(body)	task	Code	InlineCode	InlineCode
+TableRow(body)	task	Marker	Marker	Marker
+TableRow(body)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(body)	task	Bullet	Bullet	Bullet
+TableRow(body)	task	Number	Number	Number
+TableRow(body)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(body)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(body)	task	Indent	Indent decoration	Indent decoration
+TableRow(body)	task	TableSep	TableBorder	TableBorder
+TableRow(body)	task	TablePad	TablePad decoration	TablePad decoration
+TableRow(body)	task	Html	Html	Html
+TableRow(body)	task	ImageMarker	Image decoration	Image decoration
+TableRow(body)	task	FrontMatter	FrontMatter	FrontMatter
+TableRow(body)	done	Text	Body	Body strike,dim
+TableRow(body)	done	Code	InlineCode	InlineCode strike,dim
+TableRow(body)	done	Marker	Marker	Marker
+TableRow(body)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(body)	done	Bullet	Bullet	Bullet
+TableRow(body)	done	Number	Number	Number
+TableRow(body)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(body)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(body)	done	Indent	Indent decoration	Indent decoration
+TableRow(body)	done	TableSep	TableBorder	TableBorder
+TableRow(body)	done	TablePad	TablePad decoration	TablePad decoration
+TableRow(body)	done	Html	Html	Html
+TableRow(body)	done	ImageMarker	Image decoration	Image decoration
+TableRow(body)	done	FrontMatter	FrontMatter	FrontMatter
+TableRow(body)	strong+emph+link	Text	Body bold,italic,link	Body bold,italic,link
+TableRow(body)	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+TableRow(body)	strong+emph+link	Marker	Marker	Marker
+TableRow(body)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(body)	strong+emph+link	Bullet	Bullet	Bullet
+TableRow(body)	strong+emph+link	Number	Number	Number
+TableRow(body)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(body)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(body)	strong+emph+link	Indent	Indent decoration	Indent decoration
+TableRow(body)	strong+emph+link	TableSep	TableBorder	TableBorder
+TableRow(body)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+TableRow(body)	strong+emph+link	Html	Html	Html
+TableRow(body)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+TableRow(body)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+TableRow(body)	strike	Text	Body strike,dim	Body strike,dim
+TableRow(body)	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+TableRow(body)	strike	Marker	Marker	Marker
+TableRow(body)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(body)	strike	Bullet	Bullet	Bullet
+TableRow(body)	strike	Number	Number	Number
+TableRow(body)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(body)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(body)	strike	Indent	Indent decoration	Indent decoration
+TableRow(body)	strike	TableSep	TableBorder	TableBorder
+TableRow(body)	strike	TablePad	TablePad decoration	TablePad decoration
+TableRow(body)	strike	Html	Html	Html
+TableRow(body)	strike	ImageMarker	Image decoration	Image decoration
+TableRow(body)	strike	FrontMatter	FrontMatter	FrontMatter
+TableRow(body)	image	Text	Image	Image
+TableRow(body)	image	Code	Image	Image
+TableRow(body)	image	Marker	Marker	Marker
+TableRow(body)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableRow(body)	image	Bullet	Bullet	Bullet
+TableRow(body)	image	Number	Number	Number
+TableRow(body)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableRow(body)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableRow(body)	image	Indent	Indent decoration	Indent decoration
+TableRow(body)	image	TableSep	TableBorder	TableBorder
+TableRow(body)	image	TablePad	TablePad decoration	TablePad decoration
+TableRow(body)	image	Html	Html	Html
+TableRow(body)	image	ImageMarker	Image decoration	Image decoration
+TableRow(body)	image	FrontMatter	FrontMatter	FrontMatter
+TableDelimiter	-	Text	Body	Body
+TableDelimiter	-	Code	InlineCode	InlineCode
+TableDelimiter	-	Marker	Marker	Marker
+TableDelimiter	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableDelimiter	-	Bullet	Bullet	Bullet
+TableDelimiter	-	Number	Number	Number
+TableDelimiter	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableDelimiter	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableDelimiter	-	Indent	Indent decoration	Indent decoration
+TableDelimiter	-	TableSep	TableBorder	TableBorder
+TableDelimiter	-	TablePad	TablePad decoration	TablePad decoration
+TableDelimiter	-	Html	Html	Html
+TableDelimiter	-	ImageMarker	Image decoration	Image decoration
+TableDelimiter	-	FrontMatter	FrontMatter	FrontMatter
+TableDelimiter	quote	Text	Body quote	Body quote
+TableDelimiter	quote	Code	InlineCode quote	InlineCode quote
+TableDelimiter	quote	Marker	Marker quote	Marker quote
+TableDelimiter	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableDelimiter	quote	Bullet	Bullet	Bullet
+TableDelimiter	quote	Number	Number	Number
+TableDelimiter	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableDelimiter	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableDelimiter	quote	Indent	Indent decoration	Indent decoration
+TableDelimiter	quote	TableSep	TableBorder	TableBorder
+TableDelimiter	quote	TablePad	TablePad decoration	TablePad decoration
+TableDelimiter	quote	Html	Html quote	Html quote
+TableDelimiter	quote	ImageMarker	Image decoration	Image decoration
+TableDelimiter	quote	FrontMatter	FrontMatter	FrontMatter
+TableDelimiter	task	Text	Body	Body
+TableDelimiter	task	Code	InlineCode	InlineCode
+TableDelimiter	task	Marker	Marker	Marker
+TableDelimiter	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableDelimiter	task	Bullet	Bullet	Bullet
+TableDelimiter	task	Number	Number	Number
+TableDelimiter	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableDelimiter	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableDelimiter	task	Indent	Indent decoration	Indent decoration
+TableDelimiter	task	TableSep	TableBorder	TableBorder
+TableDelimiter	task	TablePad	TablePad decoration	TablePad decoration
+TableDelimiter	task	Html	Html	Html
+TableDelimiter	task	ImageMarker	Image decoration	Image decoration
+TableDelimiter	task	FrontMatter	FrontMatter	FrontMatter
+TableDelimiter	done	Text	Body	Body strike,dim
+TableDelimiter	done	Code	InlineCode	InlineCode strike,dim
+TableDelimiter	done	Marker	Marker	Marker
+TableDelimiter	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableDelimiter	done	Bullet	Bullet	Bullet
+TableDelimiter	done	Number	Number	Number
+TableDelimiter	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableDelimiter	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableDelimiter	done	Indent	Indent decoration	Indent decoration
+TableDelimiter	done	TableSep	TableBorder	TableBorder
+TableDelimiter	done	TablePad	TablePad decoration	TablePad decoration
+TableDelimiter	done	Html	Html	Html
+TableDelimiter	done	ImageMarker	Image decoration	Image decoration
+TableDelimiter	done	FrontMatter	FrontMatter	FrontMatter
+TableDelimiter	strong+emph+link	Text	Body bold,italic,link	Body bold,italic,link
+TableDelimiter	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+TableDelimiter	strong+emph+link	Marker	Marker	Marker
+TableDelimiter	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableDelimiter	strong+emph+link	Bullet	Bullet	Bullet
+TableDelimiter	strong+emph+link	Number	Number	Number
+TableDelimiter	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableDelimiter	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableDelimiter	strong+emph+link	Indent	Indent decoration	Indent decoration
+TableDelimiter	strong+emph+link	TableSep	TableBorder	TableBorder
+TableDelimiter	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+TableDelimiter	strong+emph+link	Html	Html	Html
+TableDelimiter	strong+emph+link	ImageMarker	Image decoration	Image decoration
+TableDelimiter	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+TableDelimiter	strike	Text	Body strike,dim	Body strike,dim
+TableDelimiter	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+TableDelimiter	strike	Marker	Marker	Marker
+TableDelimiter	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableDelimiter	strike	Bullet	Bullet	Bullet
+TableDelimiter	strike	Number	Number	Number
+TableDelimiter	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableDelimiter	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableDelimiter	strike	Indent	Indent decoration	Indent decoration
+TableDelimiter	strike	TableSep	TableBorder	TableBorder
+TableDelimiter	strike	TablePad	TablePad decoration	TablePad decoration
+TableDelimiter	strike	Html	Html	Html
+TableDelimiter	strike	ImageMarker	Image decoration	Image decoration
+TableDelimiter	strike	FrontMatter	FrontMatter	FrontMatter
+TableDelimiter	image	Text	Image	Image
+TableDelimiter	image	Code	Image	Image
+TableDelimiter	image	Marker	Marker	Marker
+TableDelimiter	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+TableDelimiter	image	Bullet	Bullet	Bullet
+TableDelimiter	image	Number	Number	Number
+TableDelimiter	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+TableDelimiter	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+TableDelimiter	image	Indent	Indent decoration	Indent decoration
+TableDelimiter	image	TableSep	TableBorder	TableBorder
+TableDelimiter	image	TablePad	TablePad decoration	TablePad decoration
+TableDelimiter	image	Html	Html	Html
+TableDelimiter	image	ImageMarker	Image decoration	Image decoration
+TableDelimiter	image	FrontMatter	FrontMatter	FrontMatter
+Rule	-	Text	Body	Body
+Rule	-	Code	InlineCode	InlineCode
+Rule	-	Marker	Marker	Marker
+Rule	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Rule	-	Bullet	Bullet	Bullet
+Rule	-	Number	Number	Number
+Rule	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Rule	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Rule	-	Indent	Indent decoration	Indent decoration
+Rule	-	TableSep	TableBorder	TableBorder
+Rule	-	TablePad	TablePad decoration	TablePad decoration
+Rule	-	Html	Html	Html
+Rule	-	ImageMarker	Image decoration	Image decoration
+Rule	-	FrontMatter	FrontMatter	FrontMatter
+Rule	quote	Text	Body quote	Body quote
+Rule	quote	Code	InlineCode quote	InlineCode quote
+Rule	quote	Marker	Marker quote	Marker quote
+Rule	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Rule	quote	Bullet	Bullet	Bullet
+Rule	quote	Number	Number	Number
+Rule	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Rule	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Rule	quote	Indent	Indent decoration	Indent decoration
+Rule	quote	TableSep	TableBorder	TableBorder
+Rule	quote	TablePad	TablePad decoration	TablePad decoration
+Rule	quote	Html	Html quote	Html quote
+Rule	quote	ImageMarker	Image decoration	Image decoration
+Rule	quote	FrontMatter	FrontMatter	FrontMatter
+Rule	task	Text	Body	Body
+Rule	task	Code	InlineCode	InlineCode
+Rule	task	Marker	Marker	Marker
+Rule	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Rule	task	Bullet	Bullet	Bullet
+Rule	task	Number	Number	Number
+Rule	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Rule	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Rule	task	Indent	Indent decoration	Indent decoration
+Rule	task	TableSep	TableBorder	TableBorder
+Rule	task	TablePad	TablePad decoration	TablePad decoration
+Rule	task	Html	Html	Html
+Rule	task	ImageMarker	Image decoration	Image decoration
+Rule	task	FrontMatter	FrontMatter	FrontMatter
+Rule	done	Text	Body	Body strike,dim
+Rule	done	Code	InlineCode	InlineCode strike,dim
+Rule	done	Marker	Marker	Marker
+Rule	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Rule	done	Bullet	Bullet	Bullet
+Rule	done	Number	Number	Number
+Rule	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Rule	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Rule	done	Indent	Indent decoration	Indent decoration
+Rule	done	TableSep	TableBorder	TableBorder
+Rule	done	TablePad	TablePad decoration	TablePad decoration
+Rule	done	Html	Html	Html
+Rule	done	ImageMarker	Image decoration	Image decoration
+Rule	done	FrontMatter	FrontMatter	FrontMatter
+Rule	strong+emph+link	Text	Body bold,italic,link	Body bold,italic,link
+Rule	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+Rule	strong+emph+link	Marker	Marker	Marker
+Rule	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Rule	strong+emph+link	Bullet	Bullet	Bullet
+Rule	strong+emph+link	Number	Number	Number
+Rule	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Rule	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Rule	strong+emph+link	Indent	Indent decoration	Indent decoration
+Rule	strong+emph+link	TableSep	TableBorder	TableBorder
+Rule	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Rule	strong+emph+link	Html	Html	Html
+Rule	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Rule	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Rule	strike	Text	Body strike,dim	Body strike,dim
+Rule	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+Rule	strike	Marker	Marker	Marker
+Rule	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Rule	strike	Bullet	Bullet	Bullet
+Rule	strike	Number	Number	Number
+Rule	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Rule	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Rule	strike	Indent	Indent decoration	Indent decoration
+Rule	strike	TableSep	TableBorder	TableBorder
+Rule	strike	TablePad	TablePad decoration	TablePad decoration
+Rule	strike	Html	Html	Html
+Rule	strike	ImageMarker	Image decoration	Image decoration
+Rule	strike	FrontMatter	FrontMatter	FrontMatter
+Rule	image	Text	Image	Image
+Rule	image	Code	Image	Image
+Rule	image	Marker	Marker	Marker
+Rule	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Rule	image	Bullet	Bullet	Bullet
+Rule	image	Number	Number	Number
+Rule	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Rule	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Rule	image	Indent	Indent decoration	Indent decoration
+Rule	image	TableSep	TableBorder	TableBorder
+Rule	image	TablePad	TablePad decoration	TablePad decoration
+Rule	image	Html	Html	Html
+Rule	image	ImageMarker	Image decoration	Image decoration
+Rule	image	FrontMatter	FrontMatter	FrontMatter
+Html	-	Text	Html	Html
+Html	-	Code	InlineCode	InlineCode
+Html	-	Marker	Marker	Marker
+Html	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Html	-	Bullet	Bullet	Bullet
+Html	-	Number	Number	Number
+Html	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Html	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Html	-	Indent	Indent decoration	Indent decoration
+Html	-	TableSep	TableBorder	TableBorder
+Html	-	TablePad	TablePad decoration	TablePad decoration
+Html	-	Html	Html	Html
+Html	-	ImageMarker	Image decoration	Image decoration
+Html	-	FrontMatter	FrontMatter	FrontMatter
+Html	quote	Text	Html quote	Html quote
+Html	quote	Code	InlineCode quote	InlineCode quote
+Html	quote	Marker	Marker quote	Marker quote
+Html	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Html	quote	Bullet	Bullet	Bullet
+Html	quote	Number	Number	Number
+Html	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Html	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Html	quote	Indent	Indent decoration	Indent decoration
+Html	quote	TableSep	TableBorder	TableBorder
+Html	quote	TablePad	TablePad decoration	TablePad decoration
+Html	quote	Html	Html quote	Html quote
+Html	quote	ImageMarker	Image decoration	Image decoration
+Html	quote	FrontMatter	FrontMatter	FrontMatter
+Html	task	Text	Html	Html
+Html	task	Code	InlineCode	InlineCode
+Html	task	Marker	Marker	Marker
+Html	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Html	task	Bullet	Bullet	Bullet
+Html	task	Number	Number	Number
+Html	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Html	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Html	task	Indent	Indent decoration	Indent decoration
+Html	task	TableSep	TableBorder	TableBorder
+Html	task	TablePad	TablePad decoration	TablePad decoration
+Html	task	Html	Html	Html
+Html	task	ImageMarker	Image decoration	Image decoration
+Html	task	FrontMatter	FrontMatter	FrontMatter
+Html	done	Text	Html	Html strike,dim
+Html	done	Code	InlineCode	InlineCode strike,dim
+Html	done	Marker	Marker	Marker
+Html	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Html	done	Bullet	Bullet	Bullet
+Html	done	Number	Number	Number
+Html	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Html	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Html	done	Indent	Indent decoration	Indent decoration
+Html	done	TableSep	TableBorder	TableBorder
+Html	done	TablePad	TablePad decoration	TablePad decoration
+Html	done	Html	Html	Html
+Html	done	ImageMarker	Image decoration	Image decoration
+Html	done	FrontMatter	FrontMatter	FrontMatter
+Html	strong+emph+link	Text	Html bold,italic,link	Html bold,italic,link
+Html	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+Html	strong+emph+link	Marker	Marker	Marker
+Html	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Html	strong+emph+link	Bullet	Bullet	Bullet
+Html	strong+emph+link	Number	Number	Number
+Html	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Html	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Html	strong+emph+link	Indent	Indent decoration	Indent decoration
+Html	strong+emph+link	TableSep	TableBorder	TableBorder
+Html	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Html	strong+emph+link	Html	Html	Html
+Html	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Html	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Html	strike	Text	Html strike,dim	Html strike,dim
+Html	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+Html	strike	Marker	Marker	Marker
+Html	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Html	strike	Bullet	Bullet	Bullet
+Html	strike	Number	Number	Number
+Html	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Html	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Html	strike	Indent	Indent decoration	Indent decoration
+Html	strike	TableSep	TableBorder	TableBorder
+Html	strike	TablePad	TablePad decoration	TablePad decoration
+Html	strike	Html	Html	Html
+Html	strike	ImageMarker	Image decoration	Image decoration
+Html	strike	FrontMatter	FrontMatter	FrontMatter
+Html	image	Text	Image	Image
+Html	image	Code	Image	Image
+Html	image	Marker	Marker	Marker
+Html	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Html	image	Bullet	Bullet	Bullet
+Html	image	Number	Number	Number
+Html	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Html	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Html	image	Indent	Indent decoration	Indent decoration
+Html	image	TableSep	TableBorder	TableBorder
+Html	image	TablePad	TablePad decoration	TablePad decoration
+Html	image	Html	Html	Html
+Html	image	ImageMarker	Image decoration	Image decoration
+Html	image	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(first)	-	Text	FrontMatter	FrontMatter
+FrontMatter(first)	-	Code	InlineCode	InlineCode
+FrontMatter(first)	-	Marker	Marker	Marker
+FrontMatter(first)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(first)	-	Bullet	Bullet	Bullet
+FrontMatter(first)	-	Number	Number	Number
+FrontMatter(first)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(first)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(first)	-	Indent	Indent decoration	Indent decoration
+FrontMatter(first)	-	TableSep	TableBorder	TableBorder
+FrontMatter(first)	-	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(first)	-	Html	Html	Html
+FrontMatter(first)	-	ImageMarker	Image decoration	Image decoration
+FrontMatter(first)	-	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(first)	quote	Text	FrontMatter quote	FrontMatter quote
+FrontMatter(first)	quote	Code	InlineCode quote	InlineCode quote
+FrontMatter(first)	quote	Marker	Marker quote	Marker quote
+FrontMatter(first)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(first)	quote	Bullet	Bullet	Bullet
+FrontMatter(first)	quote	Number	Number	Number
+FrontMatter(first)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(first)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(first)	quote	Indent	Indent decoration	Indent decoration
+FrontMatter(first)	quote	TableSep	TableBorder	TableBorder
+FrontMatter(first)	quote	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(first)	quote	Html	Html quote	Html quote
+FrontMatter(first)	quote	ImageMarker	Image decoration	Image decoration
+FrontMatter(first)	quote	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(first)	task	Text	FrontMatter	FrontMatter
+FrontMatter(first)	task	Code	InlineCode	InlineCode
+FrontMatter(first)	task	Marker	Marker	Marker
+FrontMatter(first)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(first)	task	Bullet	Bullet	Bullet
+FrontMatter(first)	task	Number	Number	Number
+FrontMatter(first)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(first)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(first)	task	Indent	Indent decoration	Indent decoration
+FrontMatter(first)	task	TableSep	TableBorder	TableBorder
+FrontMatter(first)	task	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(first)	task	Html	Html	Html
+FrontMatter(first)	task	ImageMarker	Image decoration	Image decoration
+FrontMatter(first)	task	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(first)	done	Text	FrontMatter	FrontMatter strike,dim
+FrontMatter(first)	done	Code	InlineCode	InlineCode strike,dim
+FrontMatter(first)	done	Marker	Marker	Marker
+FrontMatter(first)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(first)	done	Bullet	Bullet	Bullet
+FrontMatter(first)	done	Number	Number	Number
+FrontMatter(first)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(first)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(first)	done	Indent	Indent decoration	Indent decoration
+FrontMatter(first)	done	TableSep	TableBorder	TableBorder
+FrontMatter(first)	done	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(first)	done	Html	Html	Html
+FrontMatter(first)	done	ImageMarker	Image decoration	Image decoration
+FrontMatter(first)	done	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(first)	strong+emph+link	Text	FrontMatter bold,italic,link	FrontMatter bold,italic,link
+FrontMatter(first)	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+FrontMatter(first)	strong+emph+link	Marker	Marker	Marker
+FrontMatter(first)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(first)	strong+emph+link	Bullet	Bullet	Bullet
+FrontMatter(first)	strong+emph+link	Number	Number	Number
+FrontMatter(first)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(first)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(first)	strong+emph+link	Indent	Indent decoration	Indent decoration
+FrontMatter(first)	strong+emph+link	TableSep	TableBorder	TableBorder
+FrontMatter(first)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(first)	strong+emph+link	Html	Html	Html
+FrontMatter(first)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+FrontMatter(first)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(first)	strike	Text	FrontMatter strike,dim	FrontMatter strike,dim
+FrontMatter(first)	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+FrontMatter(first)	strike	Marker	Marker	Marker
+FrontMatter(first)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(first)	strike	Bullet	Bullet	Bullet
+FrontMatter(first)	strike	Number	Number	Number
+FrontMatter(first)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(first)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(first)	strike	Indent	Indent decoration	Indent decoration
+FrontMatter(first)	strike	TableSep	TableBorder	TableBorder
+FrontMatter(first)	strike	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(first)	strike	Html	Html	Html
+FrontMatter(first)	strike	ImageMarker	Image decoration	Image decoration
+FrontMatter(first)	strike	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(first)	image	Text	Image	Image
+FrontMatter(first)	image	Code	Image	Image
+FrontMatter(first)	image	Marker	Marker	Marker
+FrontMatter(first)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(first)	image	Bullet	Bullet	Bullet
+FrontMatter(first)	image	Number	Number	Number
+FrontMatter(first)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(first)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(first)	image	Indent	Indent decoration	Indent decoration
+FrontMatter(first)	image	TableSep	TableBorder	TableBorder
+FrontMatter(first)	image	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(first)	image	Html	Html	Html
+FrontMatter(first)	image	ImageMarker	Image decoration	Image decoration
+FrontMatter(first)	image	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(rest)	-	Text	FrontMatter	FrontMatter
+FrontMatter(rest)	-	Code	InlineCode	InlineCode
+FrontMatter(rest)	-	Marker	Marker	Marker
+FrontMatter(rest)	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(rest)	-	Bullet	Bullet	Bullet
+FrontMatter(rest)	-	Number	Number	Number
+FrontMatter(rest)	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(rest)	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(rest)	-	Indent	Indent decoration	Indent decoration
+FrontMatter(rest)	-	TableSep	TableBorder	TableBorder
+FrontMatter(rest)	-	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(rest)	-	Html	Html	Html
+FrontMatter(rest)	-	ImageMarker	Image decoration	Image decoration
+FrontMatter(rest)	-	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(rest)	quote	Text	FrontMatter quote	FrontMatter quote
+FrontMatter(rest)	quote	Code	InlineCode quote	InlineCode quote
+FrontMatter(rest)	quote	Marker	Marker quote	Marker quote
+FrontMatter(rest)	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(rest)	quote	Bullet	Bullet	Bullet
+FrontMatter(rest)	quote	Number	Number	Number
+FrontMatter(rest)	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(rest)	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(rest)	quote	Indent	Indent decoration	Indent decoration
+FrontMatter(rest)	quote	TableSep	TableBorder	TableBorder
+FrontMatter(rest)	quote	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(rest)	quote	Html	Html quote	Html quote
+FrontMatter(rest)	quote	ImageMarker	Image decoration	Image decoration
+FrontMatter(rest)	quote	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(rest)	task	Text	FrontMatter	FrontMatter
+FrontMatter(rest)	task	Code	InlineCode	InlineCode
+FrontMatter(rest)	task	Marker	Marker	Marker
+FrontMatter(rest)	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(rest)	task	Bullet	Bullet	Bullet
+FrontMatter(rest)	task	Number	Number	Number
+FrontMatter(rest)	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(rest)	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(rest)	task	Indent	Indent decoration	Indent decoration
+FrontMatter(rest)	task	TableSep	TableBorder	TableBorder
+FrontMatter(rest)	task	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(rest)	task	Html	Html	Html
+FrontMatter(rest)	task	ImageMarker	Image decoration	Image decoration
+FrontMatter(rest)	task	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(rest)	done	Text	FrontMatter	FrontMatter strike,dim
+FrontMatter(rest)	done	Code	InlineCode	InlineCode strike,dim
+FrontMatter(rest)	done	Marker	Marker	Marker
+FrontMatter(rest)	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(rest)	done	Bullet	Bullet	Bullet
+FrontMatter(rest)	done	Number	Number	Number
+FrontMatter(rest)	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(rest)	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(rest)	done	Indent	Indent decoration	Indent decoration
+FrontMatter(rest)	done	TableSep	TableBorder	TableBorder
+FrontMatter(rest)	done	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(rest)	done	Html	Html	Html
+FrontMatter(rest)	done	ImageMarker	Image decoration	Image decoration
+FrontMatter(rest)	done	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(rest)	strong+emph+link	Text	FrontMatter bold,italic,link	FrontMatter bold,italic,link
+FrontMatter(rest)	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+FrontMatter(rest)	strong+emph+link	Marker	Marker	Marker
+FrontMatter(rest)	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(rest)	strong+emph+link	Bullet	Bullet	Bullet
+FrontMatter(rest)	strong+emph+link	Number	Number	Number
+FrontMatter(rest)	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(rest)	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(rest)	strong+emph+link	Indent	Indent decoration	Indent decoration
+FrontMatter(rest)	strong+emph+link	TableSep	TableBorder	TableBorder
+FrontMatter(rest)	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(rest)	strong+emph+link	Html	Html	Html
+FrontMatter(rest)	strong+emph+link	ImageMarker	Image decoration	Image decoration
+FrontMatter(rest)	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(rest)	strike	Text	FrontMatter strike,dim	FrontMatter strike,dim
+FrontMatter(rest)	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+FrontMatter(rest)	strike	Marker	Marker	Marker
+FrontMatter(rest)	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(rest)	strike	Bullet	Bullet	Bullet
+FrontMatter(rest)	strike	Number	Number	Number
+FrontMatter(rest)	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(rest)	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(rest)	strike	Indent	Indent decoration	Indent decoration
+FrontMatter(rest)	strike	TableSep	TableBorder	TableBorder
+FrontMatter(rest)	strike	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(rest)	strike	Html	Html	Html
+FrontMatter(rest)	strike	ImageMarker	Image decoration	Image decoration
+FrontMatter(rest)	strike	FrontMatter	FrontMatter	FrontMatter
+FrontMatter(rest)	image	Text	Image	Image
+FrontMatter(rest)	image	Code	Image	Image
+FrontMatter(rest)	image	Marker	Marker	Marker
+FrontMatter(rest)	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+FrontMatter(rest)	image	Bullet	Bullet	Bullet
+FrontMatter(rest)	image	Number	Number	Number
+FrontMatter(rest)	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+FrontMatter(rest)	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+FrontMatter(rest)	image	Indent	Indent decoration	Indent decoration
+FrontMatter(rest)	image	TableSep	TableBorder	TableBorder
+FrontMatter(rest)	image	TablePad	TablePad decoration	TablePad decoration
+FrontMatter(rest)	image	Html	Html	Html
+FrontMatter(rest)	image	ImageMarker	Image decoration	Image decoration
+FrontMatter(rest)	image	FrontMatter	FrontMatter	FrontMatter
+Other	-	Text	Dim	Dim
+Other	-	Code	InlineCode	InlineCode
+Other	-	Marker	Marker	Marker
+Other	-	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Other	-	Bullet	Bullet	Bullet
+Other	-	Number	Number	Number
+Other	-	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Other	-	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Other	-	Indent	Indent decoration	Indent decoration
+Other	-	TableSep	TableBorder	TableBorder
+Other	-	TablePad	TablePad decoration	TablePad decoration
+Other	-	Html	Html	Html
+Other	-	ImageMarker	Image decoration	Image decoration
+Other	-	FrontMatter	FrontMatter	FrontMatter
+Other	quote	Text	Dim quote	Dim quote
+Other	quote	Code	InlineCode quote	InlineCode quote
+Other	quote	Marker	Marker quote	Marker quote
+Other	quote	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Other	quote	Bullet	Bullet	Bullet
+Other	quote	Number	Number	Number
+Other	quote	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Other	quote	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Other	quote	Indent	Indent decoration	Indent decoration
+Other	quote	TableSep	TableBorder	TableBorder
+Other	quote	TablePad	TablePad decoration	TablePad decoration
+Other	quote	Html	Html quote	Html quote
+Other	quote	ImageMarker	Image decoration	Image decoration
+Other	quote	FrontMatter	FrontMatter	FrontMatter
+Other	task	Text	Dim	Dim
+Other	task	Code	InlineCode	InlineCode
+Other	task	Marker	Marker	Marker
+Other	task	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Other	task	Bullet	Bullet	Bullet
+Other	task	Number	Number	Number
+Other	task	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Other	task	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Other	task	Indent	Indent decoration	Indent decoration
+Other	task	TableSep	TableBorder	TableBorder
+Other	task	TablePad	TablePad decoration	TablePad decoration
+Other	task	Html	Html	Html
+Other	task	ImageMarker	Image decoration	Image decoration
+Other	task	FrontMatter	FrontMatter	FrontMatter
+Other	done	Text	Dim	Dim strike,dim
+Other	done	Code	InlineCode	InlineCode strike,dim
+Other	done	Marker	Marker	Marker
+Other	done	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Other	done	Bullet	Bullet	Bullet
+Other	done	Number	Number	Number
+Other	done	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Other	done	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Other	done	Indent	Indent decoration	Indent decoration
+Other	done	TableSep	TableBorder	TableBorder
+Other	done	TablePad	TablePad decoration	TablePad decoration
+Other	done	Html	Html	Html
+Other	done	ImageMarker	Image decoration	Image decoration
+Other	done	FrontMatter	FrontMatter	FrontMatter
+Other	strong+emph+link	Text	Dim bold,italic,link	Dim bold,italic,link
+Other	strong+emph+link	Code	InlineCode bold,italic,link	InlineCode bold,italic,link
+Other	strong+emph+link	Marker	Marker	Marker
+Other	strong+emph+link	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Other	strong+emph+link	Bullet	Bullet	Bullet
+Other	strong+emph+link	Number	Number	Number
+Other	strong+emph+link	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Other	strong+emph+link	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Other	strong+emph+link	Indent	Indent decoration	Indent decoration
+Other	strong+emph+link	TableSep	TableBorder	TableBorder
+Other	strong+emph+link	TablePad	TablePad decoration	TablePad decoration
+Other	strong+emph+link	Html	Html	Html
+Other	strong+emph+link	ImageMarker	Image decoration	Image decoration
+Other	strong+emph+link	FrontMatter	FrontMatter	FrontMatter
+Other	strike	Text	Dim strike,dim	Dim strike,dim
+Other	strike	Code	InlineCode strike,dim	InlineCode strike,dim
+Other	strike	Marker	Marker	Marker
+Other	strike	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Other	strike	Bullet	Bullet	Bullet
+Other	strike	Number	Number	Number
+Other	strike	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Other	strike	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Other	strike	Indent	Indent decoration	Indent decoration
+Other	strike	TableSep	TableBorder	TableBorder
+Other	strike	TablePad	TablePad decoration	TablePad decoration
+Other	strike	Html	Html	Html
+Other	strike	ImageMarker	Image decoration	Image decoration
+Other	strike	FrontMatter	FrontMatter	FrontMatter
+Other	image	Text	Image	Image
+Other	image	Code	Image	Image
+Other	image	Marker	Marker	Marker
+Other	image	QuoteBar	QuoteBar decoration	QuoteBar decoration
+Other	image	Bullet	Bullet	Bullet
+Other	image	Number	Number	Number
+Other	image	Checkbox(false)	Checkbox(false)	Checkbox(false)
+Other	image	Checkbox(true)	Checkbox(true)	Checkbox(true)
+Other	image	Indent	Indent decoration	Indent decoration
+Other	image	TableSep	TableBorder	TableBorder
+Other	image	TablePad	TablePad decoration	TablePad decoration
+Other	image	Html	Html	Html
+Other	image	ImageMarker	Image decoration	Image decoration
+Other	image	FrontMatter	FrontMatter	FrontMatter

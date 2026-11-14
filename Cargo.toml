@@ -1,0 +1,38 @@
+[package]
+name = "lumbridge-notes"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.88"
+description = "Terminal Markdown note editor with live preview (Lumbridge Notes; works in Lumbridge TUI panes)"
+license = "Apache-2.0"
+repository = "https://github.com/lumbridge-corp/lumbridge-notes"
+homepage = "https://lumbridgecorp.com"
+readme = "README.md"
+publish = false
+
+[lib]
+name = "lumbridge_notes"
+path = "src/lib.rs"
+
+[[bin]]
+name = "lumbridge-notes"
+path = "src/main.rs"
+
+[dependencies]
+crossterm = "0.29"
+# GFM tables, task lists and strikethrough are parse options; no feature needed.
+pulldown-cmark = { version = "0.13", default-features = false }
+ratatui = "0.30"
+# The AI, speech and dictation config and APIs.
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+# Lets a closing pane (SIGHUP/SIGTERM)
+# save the note instead of killing the process mid-edit.
+signal-hook = { version = "0.3", default-features = false }
+toml = "0.8"
+unicode-segmentation = "1.13.1"
+unicode-width = "0.2"
+
+# Local-time dates in the note lists.
+[target.'cfg(unix)'.dependencies]
+libc = "0.2"

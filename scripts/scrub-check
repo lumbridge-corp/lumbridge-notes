@@ -1,0 +1,153 @@
+#!/usr/bin/env bash
+# Fails when a tracked file holds something that must not be published:
+# a private network address, a home folder path, a personal e-mail address.
+#
+#   scripts/scrub-check            check this repository
+#   scripts/scrub-check <dir>      check an exported tree (any folder)
+#
+# Two pattern sets:
+#
+# 1. A built-in list, always on. It is generic and safe to publish:
+#    - addresses in the carrier-grade NAT range 100.64/10 (used by overlay networks)
+#    - private IPv4 addresses (10/8, 172.16/12, 192.168/16)
+#    - /home/<name>/ and /Users/<name>/ paths, except example users
+#    - e-mail addresses, except example domains and lumbridgecorp.com
+#
+# 2. An extra list from the file named by $SCRUB_PATTERNS: one extended regular
+#    expression per line, "#" starts a comment. Use it for names that must not
+#    appear in the repository at all, so the list itself lives outside it.
+#    Hits from this list print as path:line only (set SCRUB_SHOW=1 to see the
+#    text), so a log never repeats what the list protects.
+#    When the variable is unset the extra list is skipped with a notice.
+#
+# Accepted hits go in .scrub-allow at the top of the tree, one per line:
+#
+#   <path glob>:<extended regular expression>
+#
+# A hit is dropped when its path matches the glob ("*" also crosses "/") and
+# its line matches the expression. Put the reason in a "#" comment above it.
+#
+# Not checked: lock files, binary files, .scrub-allow, .git and target folders.
+# Exit status: 0 clean, 1 hits, 2 cannot run.
+set -euo pipefail
+
+root=${1:-$(cd "$(dirname "$0")/.." && pwd)}
+cd "$root" || exit 2
+allow_file=.scrub-allow
+
+work=$(mktemp -d "${TMPDIR:-/tmp}/scrub-check.XXXXXX")
+trap 'rm -rf "$work"' EXIT
+
+# The files to check, NUL-separated.
+if git rev-parse --is-inside-work-tree >/dev/null 2>&1 && [ "$(git rev-parse --show-toplevel)" = "$PWD" ]; then
+  git ls-files -z
+else
+  find . -type f -not -path './.git/*' -not -path './target/*' -print0 | sed -z 's|^\./||'
+fi | grep -zvE '(\.lock|lock\.json)$|^\.scrub-allow$' >"$work/files" || true
+
+if [ ! -s "$work/files" ]; then
+  echo "scrub-check: no files to check in $root" >&2
+  exit 2
+fi
+
+# Example names that may follow /home/ or /Users/, and e-mail domains that may be used.
+example_users='sam|alex|alice|bob|user|you|me|test|example'
+example_mail='example\.(com|org|net)|[a-z0-9.-]+\.(example|test|invalid)|lumbridgecorp\.com'
+
+builtin_names=(
+  "overlay network address (100.64/10)"
+  "private IPv4 address"
+  "home folder path"
+  "e-mail address"
+)
+builtin_patterns=(
+  '\b100\.(6[4-9]|[7-9][0-9]|1[01][0-9]|12[0-7])\.[0-9]{1,3}\.[0-9]{1,3}\b'
+  '\b(10\.[0-9]{1,3}|192\.168|172\.(1[6-9]|2[0-9]|3[01]))\.[0-9]{1,3}\.[0-9]{1,3}\b'
+  '/(home|Users)/[A-Za-z0-9._-]+/'
+  '[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(\.[A-Za-z0-9-]+)*\.[a-z]{2,}\b'
+)
+# Text that is fine for a pattern: taken out of the line before it is tested again.
+builtin_fine=(
+  ''
+  ''
+  "/(home|Users)/($example_users)/"
+  "[A-Za-z0-9._%+-]+@($example_mail)\\b"
+)
+
+# Reads grep --null -n output ("path NUL line:text") and prints "path TAB line TAB text".
+split_hits() { tr '\0' '\t' | sed -E 's/^([^\t]*)\t([0-9]+):/\1\t\2\t/'; }
+
+# Drops hits that .scrub-allow accepts.
+drop_allowed() {
+  local path line text glob re
+  while IFS=$'\t' read -r path line text; do
+    if [ -f "$allow_file" ]; then
+      while IFS= read -r entry; do
+        case $entry in '' | '#'*) continue ;; esac
+        glob=${entry%%:*}
+        re=${entry#*:}
+        # shellcheck disable=SC2053  # the right side is a glob on purpose
+        if [[ $path == $glob ]] && grep -qE -- "$re" <<<"$text"; then
+          continue 2
+        fi
+      done <"$allow_file"
+    fi
+    printf '%s\t%s\t%s\n' "$path" "$line" "$text"
+  done
+}
+
+hits=0
+report() { # report <label> <show text: 1|0>   (hits on stdin)
+  local path line text
+  while IFS=$'\t' read -r path line text; do
+    hits=$((hits + 1))
+    if [ "$2" = 1 ]; then
+      printf '%s:%s: [%s] %s\n' "$path" "$line" "$1" "$text"
+    else
+      printf '%s:%s: [%s]\n' "$path" "$line" "$1"
+    fi
+  done
+}
+
+# 1. The built-in list.
+for i in "${!builtin_patterns[@]}"; do
+  pattern=${builtin_patterns[$i]}
+  fine=${builtin_fine[$i]}
+  xargs -0 grep --null -InE -e "$pattern" -- <"$work/files" 2>/dev/null | split_hits >"$work/raw" || true
+  if [ -n "$fine" ]; then
+    # Keep a line only if it still matches once the fine text is taken out.
+    while IFS=$'\t' read -r path line text; do
+      if sed -E "s#$fine##g" <<<"$text" | grep -qE -e "$pattern"; then
+        printf '%s\t%s\t%s\n' "$path" "$line" "$text"
+      fi
+    done <"$work/raw" >"$work/kept"
+  else
+    cp "$work/raw" "$work/kept"
+  fi
+  drop_allowed <"$work/kept" >"$work/left"
+  report "${builtin_names[$i]}" 1 <"$work/left"
+done
+
+# 2. The extra list.
+if [ -z "${SCRUB_PATTERNS:-}" ]; then
+  echo "scrub-check: SCRUB_PATTERNS is not set; only the built-in list was checked" >&2
+elif [ ! -r "$SCRUB_PATTERNS" ]; then
+  echo "scrub-check: cannot read $SCRUB_PATTERNS" >&2
+  exit 2
+else
+  grep -vE '^[[:space:]]*(#|$)' "$SCRUB_PATTERNS" >"$work/extra" || true
+  if [ -s "$work/extra" ]; then
+    xargs -0 grep --null -InE -f "$work/extra" -- <"$work/files" 2>/dev/null | split_hits | drop_allowed >"$work/left" || true
+    report "extra list" "${SCRUB_SHOW:-0}" <"$work/left"
+    # File names can hold a private name too.
+    tr '\0' '\n' <"$work/files" | grep -nE -f "$work/extra" | sed -E 's/^[0-9]+:(.*)$/\1\t0\tfile name/' |
+      drop_allowed >"$work/left" || true
+    report "extra list, file name" 0 <"$work/left"
+  fi
+fi
+
+if [ "$hits" -gt 0 ]; then
+  echo "scrub-check: $hits hit(s). Replace them with neutral examples, or accept them in $allow_file with a reason." >&2
+  exit 1
+fi
+echo "scrub-check: clean"

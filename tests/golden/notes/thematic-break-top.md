@@ -1,0 +1,3 @@
+---
+
+Text after a rule.

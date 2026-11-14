@@ -1,0 +1,384 @@
+{
+  "bom-heading.md": {
+    "body_start": 3,
+    "created": null,
+    "heading_title": "Heading after a BOM",
+    "summary": "front matter",
+    "tags": [],
+    "title": "Heading after a BOM"
+  },
+  "bom-toml.md": {
+    "body_start": 38,
+    "created": null,
+    "heading_title": "BOM",
+    "summary": "BOM front matter",
+    "tags": [],
+    "title": "BOM front matter"
+  },
+  "crlf-heading.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": "CRLF heading",
+    "summary": "front matter",
+    "tags": [],
+    "title": "CRLF heading"
+  },
+  "crlf-toml.md": {
+    "body_start": 47,
+    "created": null,
+    "heading_title": "CRLF note",
+    "summary": "CRLF note · win",
+    "tags": [
+      "win"
+    ],
+    "title": "CRLF note"
+  },
+  "emoji-heading.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": "🚀 Launch notes ✨",
+    "summary": "front matter",
+    "tags": [],
+    "title": "🚀 Launch notes ✨"
+  },
+  "empty.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "empty"
+  },
+  "h2-first.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "h2-first"
+  },
+  "heading-control.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": "Bell and tabhere",
+    "summary": "front matter",
+    "tags": [],
+    "title": "Bell and tabhere"
+  },
+  "heading-indented.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": "Indented heading",
+    "summary": "front matter",
+    "tags": [],
+    "title": "Indented heading"
+  },
+  "heading-no-space.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "heading-no-space"
+  },
+  "html-first-line.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "html-first-line"
+  },
+  "lone-cr.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": "Lone CRstill line one",
+    "summary": "front matter",
+    "tags": [],
+    "title": "Lone CRstill line one"
+  },
+  "mixed-endings.md": {
+    "body_start": 34,
+    "created": null,
+    "heading_title": "Mixed",
+    "summary": "Mixed endings",
+    "tags": [],
+    "title": "Mixed endings"
+  },
+  "no-trailing-newline.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": "No trailing newline",
+    "summary": "front matter",
+    "tags": [],
+    "title": "No trailing newline"
+  },
+  "only-bom.md": {
+    "body_start": 3,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "only-bom"
+  },
+  "plus-later.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "plus-later"
+  },
+  "setext-h1.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "setext-h1"
+  },
+  "setext-h2.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "setext-h2"
+  },
+  "thematic-break-top.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "thematic-break-top"
+  },
+  "thematic-break.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "thematic-break"
+  },
+  "toml-bad.md": {
+    "body_start": 34,
+    "created": null,
+    "heading_title": "Bad TOML falls back",
+    "summary": "front matter",
+    "tags": [],
+    "title": "Bad TOML falls back"
+  },
+  "toml-basic.md": {
+    "body_start": 91,
+    "created": "2026-10-16T18:40:00Z",
+    "heading_title": "Weekly review",
+    "summary": "Weekly review · work, review",
+    "tags": [
+      "work",
+      "review"
+    ],
+    "title": "Weekly review"
+  },
+  "toml-created-number.md": {
+    "body_start": 45,
+    "created": null,
+    "heading_title": null,
+    "summary": "Number created",
+    "tags": [],
+    "title": "Number created"
+  },
+  "toml-datetime.md": {
+    "body_start": 64,
+    "created": "2026-10-16T18:40:00Z",
+    "heading_title": null,
+    "summary": "Datetime value",
+    "tags": [],
+    "title": "Datetime value"
+  },
+  "toml-escapes.md": {
+    "body_start": 56,
+    "created": null,
+    "heading_title": null,
+    "summary": "Quote \" back \\ tabbell done",
+    "tags": [],
+    "title": "Quote \" back \\ tabbell done"
+  },
+  "toml-fence-trailing-space.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "toml-fence-trailing-space"
+  },
+  "toml-literal-strings.md": {
+    "body_start": 82,
+    "created": "2026-01-02",
+    "heading_title": null,
+    "summary": "Literal \\n stays · x y, z",
+    "tags": [
+      "x y",
+      "z"
+    ],
+    "title": "Literal \\n stays"
+  },
+  "toml-local-date.md": {
+    "body_start": 46,
+    "created": "2026-10-16",
+    "heading_title": "Dated note",
+    "summary": "dated",
+    "tags": [
+      "dated"
+    ],
+    "title": "Dated note"
+  },
+  "toml-no-title.md": {
+    "body_start": 25,
+    "created": null,
+    "heading_title": "From the heading",
+    "summary": "inbox",
+    "tags": [
+      "inbox"
+    ],
+    "title": "From the heading"
+  },
+  "toml-only-no-newline.md": {
+    "body_start": 40,
+    "created": null,
+    "heading_title": null,
+    "summary": "No newline after fence",
+    "tags": [],
+    "title": "No newline after fence"
+  },
+  "toml-only.md": {
+    "body_start": 52,
+    "created": null,
+    "heading_title": null,
+    "summary": "Front matter only · solo",
+    "tags": [
+      "solo"
+    ],
+    "title": "Front matter only"
+  },
+  "toml-tags-mixed.md": {
+    "body_start": 66,
+    "created": null,
+    "heading_title": null,
+    "summary": "Mixed tags · a,   , b",
+    "tags": [
+      "a",
+      "  ",
+      "b"
+    ],
+    "title": "Mixed tags"
+  },
+  "toml-title-empty.md": {
+    "body_start": 29,
+    "created": null,
+    "heading_title": "Heading wins",
+    "summary": "front matter",
+    "tags": [],
+    "title": "Heading wins"
+  },
+  "toml-unclosed.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "toml-unclosed"
+  },
+  "toml-unknown-keys.md": {
+    "body_start": 80,
+    "created": null,
+    "heading_title": null,
+    "summary": "Keeps extras",
+    "tags": [],
+    "title": "Keeps extras"
+  },
+  "unicode-title.md": {
+    "body_start": 73,
+    "created": null,
+    "heading_title": null,
+    "summary": "Café 日本語 Ünïcödé · über, 日本",
+    "tags": [
+      "über",
+      "日本"
+    ],
+    "title": "Café 日本語 Ünïcödé"
+  },
+  "untitled.md": {
+    "body_start": 68,
+    "created": "2026-10-16T18:40:00Z",
+    "heading_title": "Untitled",
+    "summary": "Untitled",
+    "tags": [],
+    "title": "Untitled"
+  },
+  "whitespace-only.md": {
+    "body_start": 0,
+    "created": null,
+    "heading_title": null,
+    "summary": "front matter",
+    "tags": [],
+    "title": "whitespace-only"
+  },
+  "yaml-basic.md": {
+    "body_start": 75,
+    "created": "2026-09-01T08:00:00Z",
+    "heading_title": "YAML note",
+    "summary": "YAML note · alpha, beta",
+    "tags": [
+      "alpha",
+      "beta"
+    ],
+    "title": "YAML note"
+  },
+  "yaml-blank-lines.md": {
+    "body_start": 13,
+    "created": null,
+    "heading_title": "Blank YAML block",
+    "summary": "front matter",
+    "tags": [],
+    "title": "Blank YAML block"
+  },
+  "yaml-crlf.md": {
+    "body_start": 39,
+    "created": null,
+    "heading_title": null,
+    "summary": "CRLF YAML · w",
+    "tags": [
+      "w"
+    ],
+    "title": "CRLF YAML"
+  },
+  "yaml-empty.md": {
+    "body_start": 8,
+    "created": null,
+    "heading_title": "Empty YAML block",
+    "summary": "front matter",
+    "tags": [],
+    "title": "Empty YAML block"
+  },
+  "yaml-quoted.md": {
+    "body_start": 86,
+    "created": "2026-09-02",
+    "heading_title": null,
+    "summary": "Quoted: with colon · one, two, three",
+    "tags": [
+      "one",
+      "two",
+      "three"
+    ],
+    "title": "Quoted: with colon"
+  },
+  "yaml-unknown-only.md": {
+    "body_start": 24,
+    "created": null,
+    "heading_title": "Only unknown keys",
+    "summary": "front matter",
+    "tags": [],
+    "title": "Only unknown keys"
+  }
+}

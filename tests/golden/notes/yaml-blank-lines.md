@@ -1,0 +1,6 @@
+---
+
+   
+---
+
+# Blank YAML block
